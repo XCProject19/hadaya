@@ -1,0 +1,2454 @@
+{
+  "allmovie" : [
+ 
+{
+  "cover" : "https://1.bp.blogspot.com/-dLxMVWsx70w/X2mXE4MU7SI/AAAAAAAAmGU/UBxmenEpT3wCYz4uDQlknWtZz7wHjiKOwCLcBGAsYHQ/s320/d.png",
+  "length" : "31:43",
+  "title" : "အကြွေးရဲ့ ကောင်းကျိုး(လှိုင်ဘွား ,ဝမ်းတူး ,သာလောင်,ဒါလေး )",
+  "genre" : "joker",
+  "video" : "549495508772145"
+},{
+  "cover" : "https://1.bp.blogspot.com/-IgRzmX95CHc/X2mXEUYm6DI/AAAAAAAAmGQ/iQS-hmfkiCUWnqvFAxaJwEDh1bKJYE6XgCLcBGAsYHQ/s320/c.png",
+  "length" : "31:39",
+  "title" : "ငိုစရာကြောင့်ရယ်မိသည်(မိုးတိမ် ,ဒဲ့ဒိုး ,ကေသာ ,စွမ်းထက်အောင် )",
+  "genre" : "joker",
+  "video" : "549511962103833"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-7EJtfTceQFk/X2mXEaFZUDI/AAAAAAAAmGM/po2QSceB_8kQQytpFfwDX-rfSWCI7EHHQCLcBGAsYHQ/s320/b.png",
+  "length" : "33:28",
+  "title" : "အသံတိတ်ဟာသ (ချက်ကြီး ,ဖိုးသဲ ,ရွှေသွေး ,ဆည်းဆာ )",
+  "genre" : "joker",
+  "video" : "549541838767512"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-vkRkJTWm4Vs/X2mXEIwL7xI/AAAAAAAAmGI/g1ilCBL9ikM-OU315kokJBfx7y9w8wRlwCLcBGAsYHQ/s320/a.png",
+  "length" : "33:43",
+  "title" : "ဆုတောင်းမှားခဲ့လေသလား (ပေါ်ဦး ,အောင်ချစ် ,ဉာဏ်ပွင့် ,တိုးတိုး )",
+  "genre" : "joker",
+  "video" : "549555608766135"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-jWi-xNKcAGU/X2mW0bYRabI/AAAAAAAAmBg/Qpa1xsfL2-AGAag_bfOWJzVlixchHyMzQCLcBGAsYHQ/s320/323.jpg",
+  "length" : "33:20",
+  "title" : "မြန်မာပြည်တွင်လုပ်သည်(လှိုင်ဘွား ,ဝမ်းတူး ,ဉာဏ်ပွင့် ,တိုးတိုး)",
+  "genre" : "joker",
+  "video" : "550042418717454"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-DLrOFrbPc98/X2mW0CRNQbI/AAAAAAAAmBk/1kEd4jYxRaEVYuNzxqwD779dBInBOMNtQCLcBGAsYHQ/s320/322.jpg",
+  "length" : "36:10",
+  "title" : "လိုင်းပြောင်းမိမှား(သာလောင် ,ဒါလေး ,စိစိ ,ချစ်ဖူး )",
+  "genre" : "joker",
+  "video" : "550044388717257"
+},{
+  "cover" : "https://1.bp.blogspot.com/-HbNpD6M8sDs/X2mW0Lq6B3I/AAAAAAAAmBc/9EGwrbXc0i8nspBSIRPThnmfGwJVE1kPwCLcBGAsYHQ/s320/321.jpg",
+  "length" : "30:20",
+  "title" : "မြန်မာပြည်တွင်လုပ်သည်(ဉာဏ်ပွင့် ,တိုးတိုး ,လှိုင်ဘွား ,ဝမ်းတူး )",
+  "genre" : "joker",
+  "video" : "550074002047629"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-X_68CfNwUTQ/X2mWzsJSFYI/AAAAAAAAmBY/aylXuTDiv7YFFzB68JX_rpf-xHA_5eQ6QCLcBGAsYHQ/s320/320.jpg",
+  "length" : "34:15",
+  "title" : "ပျင်းတဲ့သူကံကောင်းသည်(ထက်လင်း ,အေးချမ်း ,ရွှေသွေး ,ဆည်းဆာ )",
+  "genre" : "joker",
+  "video" : "550087545379608"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-2ZDKTPVywlQ/X2mWzVY2qiI/AAAAAAAAmBQ/6ohztb2xkRI5yTv8IOkj7q5hD8XPcTW5ACLcBGAsYHQ/s320/319.jpg",
+  "length" : "34:34",
+  "title" : "အဆိုးထဲကအကောင်း(ပေါ်ဦး ,အောင်ချစ် ,လှိုင်ဘွား ,ဝမ်းတူး)",
+  "genre" : "joker",
+  "video" : "550703741984655"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/--Ti5Mz-4umQ/X2mWzP-ODmI/AAAAAAAAmBM/K5VlyPtb0rokQG9-3IpRojqU639_afBHQCLcBGAsYHQ/s320/318.jpg",
+  "length" : "35:00",
+  "title" : "ဝါသနာနဲ့ဝမ်းစာ(ထက်လင်း ,အေးချမ်း ,မိုးတိမ် ,ဒဲ့ဒိုး)",
+  "genre" : "joker",
+  "video" : "550706361984393"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ln-jfGwcGtQ/X2mWy8noWDI/AAAAAAAAmBE/-V1anAn_Zq4L8itkoZLUDUhcE8hLGmf0gCLcBGAsYHQ/s320/317.jpg",
+  "length" : "32:56",
+  "title" : "အလုပ်ထက်သာတာအပြော(ကေသာ ,စွမ်းထက်အောင် ,ရွှေသွေး ,ဆည်းဆာ)",
+  "genre" : "joker",
+  "video" : "550726135315749"
+},{
+  "cover" : "https://1.bp.blogspot.com/-EIexW_Is2XU/X2mWy8qPkWI/AAAAAAAAmBI/nRq0p5F7_1A2TYWsG79-rqVLq9QoN3DdgCLcBGAsYHQ/s320/316.jpg",
+  "length" : "33:39",
+  "title" : "ဟိုဘဝကအကြွေး(ထက်လင်း ,အေးချမ်း ,ချက်ကြီး ,ဖိုးသဲ)" ,
+  "genre" : "joker",
+  "video" : "550730861981943"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-MSiVj9JTBDY/X2mWyjuqXjI/AAAAAAAAmBA/KIBPoEi4QZ4SONfA7F1tzppg3Y2LPQtNgCLcBGAsYHQ/s320/315.jpg",
+  "length" : "31:01",
+  "title" : "ယုံချင်ယုံ မယုံချင်နေ(ဉာဏ်ပွင့် ,တိုးတိုး ,စိစိ ,ချစ်ဖူး )",
+  "genre" : "joker",
+  "video" : "551191515269211"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-Jxy8ajDLNO0/X2mWyV0bkaI/AAAAAAAAmA8/2aHL9QPFIiYThN_HtjQYHYjih5bVHOCVQCLcBGAsYHQ/s320/314.jpg",
+  "length" : "36:02",
+  "title" : "လူရွှင်တော်ဖြစ်ရတဲ့ဒုက္ခ(ချက်ကြီး ,ဖိုးသဲ ,မိုးတိမ် ,ဒဲ့ဒိုး)",
+  "genre" : "joker",
+  "video" : "551202041934825"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-SG5jVaASgj4/X2mWyYCkJOI/AAAAAAAAmA4/tO6gFeb7KfkGaMAhv0t_tvou9ugFgMdxQCLcBGAsYHQ/s320/313.jpg",
+  "length" : "31:11",
+  "title" : "မှားတာရှိရင်တောင်းပန်ပါတယ်(စိစိ ,ချစ်ဖူး ,ပေါ်ဦး ,အောင်ချစ်)",
+  "genre" : "joker",
+  "video" : "551226401932389"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-IGikKJ8AWgk/X2mWxxwiqyI/AAAAAAAAmAw/5R-7sLt6TlUEYLYPWSK2sTR8LMKRS6SGgCLcBGAsYHQ/s320/311.jpg",
+  "length" : "31:35",
+  "title" : "ခေတ်မီတဲ့သူ(လှိုင်ဘွား ,ဝမ်းတူး ,စိစိ ,ချစ်ဖူး)",
+  "genre" : "joker",
+  "video" : "551280205260342"
+},{
+  "cover" : "https://1.bp.blogspot.com/-HVBupo4qpnI/X2mWyPICe5I/AAAAAAAAmA0/VlT3ZT3KEhAHbCCKITPcmRpXriBlKUEZQCLcBGAsYHQ/s320/312.jpg",
+  "length" : "34:28",
+  "title" : "ရယ်ခြင်းနဲ့ငိုခြင်း(ဉာဏ်ပွင့် ,တိုးတိုုး ,သာလောင် ,ဒါလေး)",
+  "genre" : "joker",
+  "video" : "551244448597251"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-5bZxLJ4iU6U/X2mWx9lD0oI/AAAAAAAAmAs/tTNlnhEM0I0rYKCTfB-JoX-AVvV9Bx2TACLcBGAsYHQ/s320/310.jpg",
+  "length" : "34:09",
+  "title" : "ဖြစ်ချင်ရင် ဆုတောင်း(ကေသာ ,စွမ်းထက်အောင် ,ချက်ကြီး ,ဖိုးသဲ)",
+  "genre" : "joker",
+  "video" : "551986148523081"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-UyHYLJoB8zw/X2mWxWGxIUI/AAAAAAAAmAk/JAPR-kxUI-wtdHnoj06zsyCevH9HwmFFgCLcBGAsYHQ/s320/309.jpg",
+  "length" : "31:56",
+  "title" : "အဟောင်းကိုတုလို့ အသစ်ထွင်(ပေါ်ဦး ,အောင်ချစ် ,သာလောင် ,ဒါလေး)",
+  "genre" : "joker",
+  "video" : "552023885185974"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-pOICJeWbWGY/X2mWxTRNSpI/AAAAAAAAmAg/NEAI1eeA37IibmW1XT7-advEeL6XTKPjgCLcBGAsYHQ/s320/308.jpg",
+  "length" : "33:09",
+  "title" : "ရှေးရေစက်ကကောင်းတော့ကွယ်(ထက်လင်း ,အေးချမ်း ,ကေသာ ,စွမ်းထက်အောင်)",
+  "genre" : "joker",
+  "video" : "552035071851522"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-luF08DL2Q-4/X2mWxAgwmUI/AAAAAAAAmAc/Mgj-Z8UoR2Qvpxg8zNo2xtVec37BykSgwCLcBGAsYHQ/s320/307.jpg",
+  "length" : "34:02",
+  "title" : "ဟာသကျမ်း(မိုးတိမ် ,ဒဲ့ဒိုး ,ရွှေသွေး ,ဆည်းဆာ)",
+  "genre" : "joker",
+  "video" : "552051208516575"
+},{
+  "cover" : "https://1.bp.blogspot.com/-N58tOjGiAZs/X2mWxOFxloI/AAAAAAAAmAY/jhv38B2x0V8pf_wtejjicFaaZTggEQnngCLcBGAsYHQ/s320/306.jpg",
+  "length" : "35:38",
+  "title" : "တစ်ပူပေါ်တစ်ပူဆင့်(မိုးတိမ် ,ဒဲ့ဒိုး ,သာလောင် ,ဒါလေး )",
+  "genre" : "joker",
+  "video" : "552056271849402"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-lYKDs6q0ZBw/X2mWw1CzaSI/AAAAAAAAmAU/A0IFgUK5VuE6KjUcdCGJtFuXqxm7XRT1wCLcBGAsYHQ/s320/305.jpg",
+  "length" : "34:19",
+  "title" : "နေမြင့်လေ အရူးရင့်လေ(ရွှေသွေး ,ဆည်းဆာ ,ပေါ်ဦး ,အောင်ချစ် )",
+  "genre" : "joker",
+  "video" : "552060238515672"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-VYH1NtA5evk/X2mWwoc__JI/AAAAAAAAmAQ/S7eTVc59K-MA-TtuVMRSH4aOAdObRF25gCLcBGAsYHQ/s320/304.jpg",
+  "length" : "31:46",
+  "title" : "နောက်ဆုံးထွက်သက်(မိုးတိမ် ,ဒဲ့ဒိုး ,ရွှေသွေး ,ဆည်းဆာ)",
+  "genre" : "joker",
+  "video" : "552067298514966"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-_9kcd6UixCg/X2mWwrE1RuI/AAAAAAAAmAM/enRUNodIpqE_j-6uSopdrm9Dt8SvDGeCwCLcBGAsYHQ/s320/303.jpg",
+  "length" : "35:55",
+  "title" : "ယဉ်ယဉ်ကျေးကျေးခေတ်ရှေ့ပြေး(ပေါ်ဦး ,အောင်ချစ် ,သာလောင် ,ဒါလေး )",
+  "genre" : "joker",
+  "video" : "552072951847734"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-SfCDKYKKYqs/X2mWwVZm2FI/AAAAAAAAmAI/LsxzfMCs2HUISe3NLpMTq0TYbQt1SFR0QCLcBGAsYHQ/s320/302.jpg",
+  "length" : "34:09",
+  "title" : "အခုတစ်မျိုးတော်ကြာတစ်မျိုး(မိုးတိမ် ,ဒဲ့ဒိုး ,ဇေဇေ ,နိုးတူး)",
+  "genre" : "joker",
+  "video" : "554042448317451"
+},{
+  "cover" : "https://1.bp.blogspot.com/-HXC7TNi0OdQ/X2mWwEHQflI/AAAAAAAAmAE/RANqEJu7Y70DXln9RhbTMsJ56efZvW5OwCLcBGAsYHQ/s320/301.jpg",
+  "length" : "35:41",
+  "title" : "ရှဉ့်လည်းလျှောက်သာပျားလည်းစွဲသာ(ပေါ်ဦး ,အောင်ချစ် ,ချစ်မိုး ,ပြောင်ကြီး)",
+  "genre" : "joker",
+  "video" : "554035988318097"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-X_IzXw23jIQ/X2mWwLOo7cI/AAAAAAAAmAA/WQ9hnmNcY48M813OgcbICpm6P4RcEzw7QCLcBGAsYHQ/s320/300.jpg",
+  "length" : "34:58",
+  "title" : "ကဗျာနဲ့သံစဉ်(မိုးတိမ် ,ဒဲ့ဒိုး ,ရွှေဝါ ,မိုးစံ)",
+  "genre" : "joker",
+  "video" : "554037614984601"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-THl03w8YblU/X2mWvdRZzPI/AAAAAAAAl_0/wPnbIJC-WpUuuH1lE62jKXTpovuROF4_QCLcBGAsYHQ/s320/299.jpg",
+  "length" : "",
+  "title" : "ဆိုချင်ရက်လက်တို့(လိပ်မ ,ဇာနည် ,ထက်အောင်ချစ် ,ထူးကျော် )",
+  "genre" : "joker",
+  "video" : "554039678317728"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-QQ2fAuvAOIQ/X2mWvbIX44I/AAAAAAAAl_w/v7uqeMX14kkUrqQJJWfaYMutCTG-cadLACLcBGAsYHQ/s320/298.jpg",
+  "length" : "35:53",
+  "title" : "ရောဆရာကြီး(ပေါ်ဦး ,အောင်ချစ် ,စိမ်းလန်း ,စိုပြေ)",
+  "genre" : "joker",
+  "video" : "554050318316664"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-jzY-nSfx8VU/X2mWvFVPgTI/AAAAAAAAl_s/xNwjj3Obj-sOTdfqi0yYj00h0SmSViWQgCLcBGAsYHQ/s320/297.jpg",
+  "length" : "33:22",
+  "title" : "ရှေးသံချပ် ခေတ်သံချပ်(ထက်အောင်ချစ် ,ထူးကျော် ,ဇေဇေ )",
+  "genre" : "joker",
+  "video" : "554071634981199"
+},{
+  "cover" : "https://1.bp.blogspot.com/-8AQR11FfDtI/X2mWu76BUPI/AAAAAAAAl_o/4RZqIFB9d38U9luQGYQkE2hKq_j1HC_9ACLcBGAsYHQ/s320/296.jpg",
+  "length" : "34:24",
+  "title" : "ဖားတုလို့ခရုခုန်(မိုးတိမ် ,ဒဲ့ဒိုး ,လိပ်မ ,ဇာနည်)",
+  "genre" : "joker",
+  "video" : "554073141647715"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-uoSctnCD5lM/X2mWuyqeC7I/AAAAAAAAl_k/LIEiwCVqc_o5u525QRpDnh0DLYZX-zvDQCLcBGAsYHQ/s320/295.jpg",
+  "length" : "35:53",
+  "title" : "တစ်လိမ်နှစ်လိမ်(ချစ်မိုး ,ပြောင်ကြီး ,စိမ်းလန်း ,စိုပြေ )",
+  "genre" : "joker",
+  "video" : "554075934980769"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-T7D-01Bxwe4/X2mWuloPr5I/AAAAAAAAl_g/7BrDhY8mI5w7-bCohyt2hyia6dtpQ3DUACLcBGAsYHQ/s320/294.jpg",
+  "length" : "33:07",
+  "title" : "ယုန်တောင်ပြေးခွေးမြောက်လိုက်(ရွှေဝါ ,မိုးစံ ,ဇေဇေ ,နိုးတူး)",
+  "genre" : "joker",
+  "video" : "556264451428584"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-UZVblmqQcwI/X2mWuQExEyI/AAAAAAAAl_Y/iqEV3M8KqG8onstIOVsAhBKlOqgWV-GcwCLcBGAsYHQ/s320/293.jpg",
+  "length" : "35:51",
+  "title" : "ထိန်းထိန်းသိမ်းသိမ်း(ဆယ်ပြား ,ဒီလေး ,စိုပြေ ,စိမ်းလန်း)",
+  "genre" : "joker",
+  "video" : "556266501428379"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-qMJkIxgvnh4/X2mWuYWukKI/AAAAAAAAl_c/EPYqohDokho7j9qU0vgXkY3LIUpAD_TYQCLcBGAsYHQ/s320/292.jpg",
+  "length" : "32:01",
+  "title" : "ချစ်ခြင်းအစမျက်စိက(တိမ်ဝါ ,အာနိုး ,ရွှေဝါ ,မိုးစံ )",
+  "genre" : "joker",
+  "video" : "558226174565745"
+},{
+  "cover" : "https://1.bp.blogspot.com/-W21wyLc1wRs/X2mWufKY_2I/AAAAAAAAl_U/r0iFPtYFRIk2AMBbjx0tpKi2R5QO-U1kACLcBGAsYHQ/s320/291.jpg",
+  "length" : "34:24",
+  "title" : "မင်းကြောင့်ငါ့ကြောင့်(ပေါ်ဦး ,အောင်ချစ် ,ဆယ်ပြား ,ဒီလေး )",
+  "genre" : "joker",
+  "video" : "556262444762118"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-bx1XI_x_V1M/X2mWuG5KRNI/AAAAAAAAl_Q/4dvfIFKWiCkqEavpuke-XyIUqkxgL98AQCLcBGAsYHQ/s320/290.jpg",
+  "length" : "32:43",
+  "title" : "ကိုယ်ပိုင်စတိုင်လ်(လိပ်မ ,ဇာနည် ,ဇေဇေ ,နိုးတူး )",
+  "genre" : "joker",
+  "video" : "556085708113125"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-iLS4iFJFS5s/X2mWt6svmnI/AAAAAAAAl_I/8F1HEup4JsQKCnNQioEh_uv4KPb92rfTwCLcBGAsYHQ/s320/289.jpg",
+  "length" : "",
+  "title" : "မျိုးရိုးနဲ့ဗီဇ(စိုပြေ ,စိမ်းလန်း , ပိုင်ပိုင် ,သိန်းဆု)",
+  "genre" : "joker",
+  "video" : "556087184779644"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-Etf4MKx85HE/X2mWtsijL4I/AAAAAAAAl_E/Ab_mqJRRio4QN3ZthbdtStglwDFNuQQYQCLcBGAsYHQ/s320/288.jpg",
+  "length" : "",
+  "title" : "ကျေးလက်ရဲ့ဟာသ(မိုးတိမ် ,ဒဲ့ဒိုး ,ထက်အောင်ချစ် ,ထူးကျော်)",
+  "genre" : "joker",
+  "video" : "556089491446080"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-QTUYrXXSmoA/X2mWttOQPWI/AAAAAAAAl_A/QgqS5NYCXqgQrd1iNpx8niIDTw26ronUwCLcBGAsYHQ/s320/287.jpg",
+  "length" : "",
+  "title" : "ကျော်အောင်ညာတဲ့ကြော်ငြာခေတ်(ပေါ်ဦး ,အောင်ချစ် ,ပိုင်ပိုင် ,သိန်းဆု)",
+  "genre" : "joker",
+  "video" : "556756974712665"
+},{
+  "cover" : "https://1.bp.blogspot.com/-wZt0ICnp4KQ/X2mWteS57dI/AAAAAAAAl-8/pgh-REdmVHItgB8Trt4Ji5n49PxIdCCaACLcBGAsYHQ/s320/286.jpg",
+  "length" : "",
+  "title" : "ကျွန်တော်ကိုဖိုးသန့်(လိပ်မ ,ဇာနည်, ပေါ်ဦး,အောင်ချစ် )",
+  "genre" : "joker",
+  "video" : "556758881379141"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-kUraOLhTEv8/X2mWtM1LDHI/AAAAAAAAl-4/rAivT73YcXkTT90XI3gTI6CpXU1ssBOYgCLcBGAsYHQ/s320/285.jpg",
+  "length" : "",
+  "title" : "တစ်မူးရလို့တစ်ပဲလှူ(မိုးတိမ် ,ဒဲ့ဒိုး ,စိုပြေ ,စိမ်းလန်း )",
+  "genre" : "joker",
+  "video" : "556760414712321"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-F327tkr0PVo/X2mWtGnpg1I/AAAAAAAAl-0/vAaLQeOdtukpkeY229DE2Di8F9W4MKkjACLcBGAsYHQ/s320/284.jpg",
+  "length" : "",
+  "title" : "လက်လှမ်းလို့မမီတမီ(လိပ်မ ,ဇာနည် ,စိုပြေ ,စိမ်းလန်း)",
+  "genre" : "joker",
+  "video" : "556763051378724"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-NvbKzRh0uZM/X2mWs8XFkhI/AAAAAAAAl-w/AdNYR2NcsE0c4-eZ6xUU7QPc_gDvd8HDgCLcBGAsYHQ/s320/283.jpg",
+  "length" : "",
+  "title" : "တိုင်းသိပြည်သိ(မိုးတိမ် ,ဒဲ့ဒိုး ,ပေါ်ဦး ,အောင်ချစ်)",
+  "genre" : "joker",
+  "video" : "556765624711800"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-8mVvG_dloFM/X2mWsi4antI/AAAAAAAAl-s/VyrrIaok4YglPfklhCrNoRnrCEF1-2IQQCLcBGAsYHQ/s320/282.jpg",
+  "length" : "",
+  "title" : "ရေးတော့အမှန် ဖတ်တော့အသံ(ဖိုးလမင်း,လှိုင်ဘွား ,တိမ်ဝါ ,အာနိုး)",
+  "genre" : "joker",
+  "video" : "556774124710950"
+},{
+  "cover" : "https://1.bp.blogspot.com/-nOpQsDUuN0w/X2mWslPZy6I/AAAAAAAAl-o/rJ0F4rxpUlkZpIB3Vwq4C1Cwxk3sdmSJgCLcBGAsYHQ/s320/281.jpg",
+  "length" : "",
+  "title" : "ကြွက်မနိုင် ကျီမီးနဲ့ရှို့(ဝကြီး ,ပိုင်ဟိန်း ,စိမ်းလန်း ,စိုပြေ)",
+  "genre" : "joker",
+  "video" : "556774838044212"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-fioVF_0qT0g/X2mWsi5dbCI/AAAAAAAAl-k/E6xWt92QxIQ_OlT8lDUy_5Bx4RlGDpOZACLcBGAsYHQ/s320/280.jpg",
+  "length" : "",
+  "title" : "အိပ်မက်ကမ္ဘာ(ချစ်မိုး ,ပြောင်ကြီး ,ပိုင်ပိုင် ,သိန်းဆု)",
+  "genre" : "joker",
+  "video" : "556261788095517"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-rmSqGeTsmTY/X2mWscaiPaI/AAAAAAAAl-c/HPtKTBKVGbsrGhjcNoIKezbtwrom0G4ugCLcBGAsYHQ/s320/279.jpg",
+  "length" : "",
+  "title" : "ပါးစပ်ပါရွာရောက်(ပေါ်ဦး ,အောင်ချစ် ,ဝမ်းတူး ,မိုးလေး)",
+  "genre" : "joker",
+  "video" : "556776238044072"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-bSMIbloSN_A/X2mWsN85yPI/AAAAAAAAl-Y/HZTKJDMF87Ig__rjDgoyz1KmuvlC1dykACLcBGAsYHQ/s320/278.jpg",
+  "length" : "",
+  "title" : "ချစ်ကြိုက်ညားကွဲ(ဆယ်ပြား ,ဒီလေး ,ချစ်မိုး ,ပြောင်ကြီး)",
+  "genre" : "joker",
+  "video" : "556082644780098"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-lhHfrd7UPVo/X2mWrnGlUdI/AAAAAAAAl-U/Xltxwm1B7MYL8l6TJhu9hsyH893efM_5ACLcBGAsYHQ/s320/277.jpg",
+  "length" : "",
+  "title" : "နောင်ခါလာနောင်ခါစျေး(သောကြာ ,ပန်းမွှေး ,ရွှေဝါ ,မိုးစံ)",
+  "genre" : "joker",
+  "video" : "556778268043869"
+},{
+  "cover" : "https://1.bp.blogspot.com/-anIswCdNz7U/X2mWrmjJ68I/AAAAAAAAl-Q/UDiSYAi7ay8InLEdB2-Fc5jxVWNDevJDQCLcBGAsYHQ/s320/276.jpg",
+  "length" : "",
+  "title" : "ကလိန်စေ့ငြမ်းဆင်(မိုးတိမ် ,ဆန်းသစ် ,တိမ်ဝါ ,အာနိုး )",
+  "genre" : "joker",
+  "video" : "556781274710235"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-YL5GOjRNZi8/X2mWrrFKpNI/AAAAAAAAl-M/Yp8LzA2TtGo5_7AOOjNWWgmDS4YJrf0rgCLcBGAsYHQ/s320/275.jpg",
+  "length" : "",
+  "title" : "နငယ်အမြီးတပ်(မိုးတိမ် ,ဆန်းသစ် ,သောကြာ,ပန်းမွှေး)",
+  "genre" : "joker",
+  "video" : "558053074583055"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-RRZG7f7XQOg/X2mWrD-PZ5I/AAAAAAAAl-I/qkYUGquO6x8pto9-jXXvutOcPkczN12bwCLcBGAsYHQ/s320/274.jpg",
+  "length" : "",
+  "title" : "ချီးမွမ်းခုနစ်ရက် ကဲ့ရဲ့ခုနစ်ရက်(ပေါ်ဦး ,အောင်ချစ် ,ဝကြီး ,ကျန်ကျောင်း)",
+  "genre" : "joker",
+  "video" : "558054251249604"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-aZ3aTCgUjGU/X2mWrHxDuOI/AAAAAAAAl-E/sLbHuTltirMAg_vhkVViaI-yU7PMR4fxwCLcBGAsYHQ/s320/273.jpg",
+  "length" : "",
+  "title" : "အရိပ်ပြအကောင်ထင်(ဝမ်းတူး ,မိုးလေး ,ပွင့်ကျော် ,ပေါ်ပေါ် )",
+  "genre" : "joker",
+  "video" : "558056567916039"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-gNRIQ4mlqtg/X2mWq2MO12I/AAAAAAAAl-A/QzKoHVZ8MhcNTf5C1n5SiovkQf5SMlePgCLcBGAsYHQ/s320/272.jpg",
+  "length" : "",
+  "title" : "စကားနည်းရန်စဲ(ဖိုးလမင်း ,လှိုင်ဘွား ,ရွှေဝါ ,မိုးစံ)",
+  "genre" : "joker",
+  "video" : "558060184582344"
+},{
+  "cover" : "https://1.bp.blogspot.com/-kJOA1gisulY/X2mWqkYhzUI/AAAAAAAAl98/F3RAjrnsYLw2LYQcTjyEAiSdLmYAIMgSACLcBGAsYHQ/s320/271.jpg",
+  "length" : "",
+  "title" : "မလှူတတ်စျေးရောင်း(ပေါ်ဦး ,အောင်ချစ် ,စိုပြေ ,စိမ်းလန်း)",
+  "genre" : "joker",
+  "video" : "558218847899811"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-UyI8TBLfVzE/X2mWqsoHzBI/AAAAAAAAl94/g9dj79XSzco_wZNQKMN0Y5EW7Z3HbMo0ACLcBGAsYHQ/s320/270.jpg",
+  "length" : "",
+  "title" : "ထုလေမာလေငါးဖယ်တေ(ဝမ်းတူး ,မိုးလေး ,ဝကြီး ,ကျန်ကျောင်း )",
+  "genre" : "joker",
+  "video" : "558228574565505"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-yXpjqG7bDz0/X2mWqJoOJHI/AAAAAAAAl9w/cVbYufS_jB4NLTLa4JKA6NrQtQgnemlrwCLcBGAsYHQ/s320/269.jpg",
+  "length" : "",
+  "title" : "ပျော်ပျော်နေသေခဲ(စိမ်းလန်း ,စိုပြေ ,ပွင့်ကျော် ,ပေါ်ပေါ်)",
+  "genre" : "joker",
+  "video" : "558234654564897"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-WuD8mntr_IM/X2mWqJ6lAdI/AAAAAAAAl9s/AfGzmdnXemc3AmT072ij4zojZx-OPkXfQCLcBGAsYHQ/s320/268.jpg",
+  "length" : "",
+  "title" : "မျက်နှာကြီးရာဟင်းဖတ်ပါ",
+  "genre" : "joker",
+  "video" : "558236034564759"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-aVZrmIPbukU/X2mWpy5fnQI/AAAAAAAAl9o/jEGL84wPvWcaiFalkEI2HYK-LHrvYQEBgCLcBGAsYHQ/s320/267.jpg",
+  "length" : "",
+  "title" : "ရေလိုက်ငါးလိုက်(မိုးတိမ် ,ဆန်းသစ် ,ဖိုးလမင်း ,လှိုင်ဘွား )",
+  "genre" : "joker",
+  "video" : "558237371231292"
+},{
+  "cover" : "https://1.bp.blogspot.com/-WCRgynBPVmI/X2mWphEKWhI/AAAAAAAAl9g/QoAnatbue-A9VjuOMcbXz9ymxZItQIALwCLcBGAsYHQ/s320/266.jpg",
+  "length" : "",
+  "title" : "တကယ်လုပ်အဟုတ်ဖြစ်(မိုးတိမ် ,ဆန်းသစ် ,ရွှေဝါ ,မိုးစံ )",
+  "genre" : "joker",
+  "video" : "558240414564321"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-Kb6KGPaudUg/X2mWprmi9wI/AAAAAAAAl9k/5ykvYldsWTE2mCom_sTyzyTsrej19aMvwCLcBGAsYHQ/s320/265.jpg",
+  "length" : "",
+  "title" : "လူမသေ ငွေမရှား(ဖိုးလမင်း ,လှိုင်ဘွား ,သောကြာ ,ပန်းမွှေး)",
+  "genre" : "joker",
+  "video" : "558242881230741"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-Wo4ySqZ5xU8/X2mWpfEL7FI/AAAAAAAAl9c/jZ9dF_0tikwSv44sEHrN4gLREWXJGMLwACLcBGAsYHQ/s320/264.jpg",
+  "length" : "",
+  "title" : "ဒူးနေရာဒူး တော်နေရာတော်(ပေါ်ဦး ,အောင်ချစ် ,ပွင့်ကျော် ,ပေါ်ပေါ် )",
+  "genre" : "joker",
+  "video" : "558244344563928"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-2ajngqsBkWQ/X2mWowsKwdI/AAAAAAAAl9Y/VOxLixuLovgCRDiYg16h47n1WQsyj9HpACLcBGAsYHQ/s320/263.jpg",
+  "length" : "",
+  "title" : "အသီးတစ်ရာအညှာတစ်ခု(ဝမ်းတူး ,မိုးလေး ,စိုပြေ ,စိမ်းလန်း)",
+  "genre" : "joker",
+  "video" : "558337061221323"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-AFIr9Gy7uXU/X2mWomZLp9I/AAAAAAAAl9U/IHaP9hCH7FUr12b8o4g-AQJWik7Ewu_AQCLcBGAsYHQ/s320/262.jpg",
+  "length" : "",
+  "title" : "သမားဆိုအိုစေ မယားဆိုပျိုစေ(ဝကြီး ,ကျန်ကျောင်း ,ပွင့်ကျော် ,ပေါ်ပေါ်)",
+  "genre" : "joker",
+  "video" : "558492434539119"
+},{
+  "cover" : "https://1.bp.blogspot.com/-SP-Ix7OyfVE/X2mWoY_R10I/AAAAAAAAl9M/QPruKnyITI4aeq-WcQd8TyKtOn7DJnMSgCLcBGAsYHQ/s320/261.jpg",
+  "length" : "",
+  "title" : "ကျော်မကောင်း ကြားမကောင်း(မိုးတိမ် ,ဆန်းသစ် ,ဝမ်းတူး ,မိုးလေး)",
+  "genre" : "joker",
+  "video" : "558511477870548"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-KRf__lKmXtU/X2mWoRmw_EI/AAAAAAAAl9Q/Z0aLUv7BsQwoa0WXZNbWnHkiNQSaBx_RwCLcBGAsYHQ/s320/260.jpg",
+  "length" : "",
+  "title" : "အောင်အတိတ် အောင်နိမိတ်(ပေါ်ဦး ,အောင်ချစ် ,ဖိုးလမင်း ,လှိုင်ဘွား)",
+  "genre" : "joker",
+  "video" : "558537037867992"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-VMh35ma_WzQ/X2mWnwJll4I/AAAAAAAAl9E/xECYtKnYnU4tXWmRBK5bIT_Vf61r7LXyQCLcBGAsYHQ/s320/259.jpg",
+  "length" : "",
+  "title" : "တံလျှပ်ရေထင်(ဝမ်းတူး ,မိုးလေး ,ဖိုးလမင်း ,လှိုင်ဘွား )",
+  "genre" : "joker",
+  "video" : "559022111152818"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-oqM6-HUPR2k/X2mWn65ksII/AAAAAAAAl9A/bm3Yc2UyvRoAD3j5ZFKvnN_Tp6xMk5zwgCLcBGAsYHQ/s320/258.jpg",
+  "length" : "",
+  "title" : "မပြောကောင်း မဆိုကောင်း(မိုးတိမ် ,ဆန်းသစ် ,ပေါ်ဦး ,အောင်ချစ်)",
+  "genre" : "joker",
+  "video" : "558862107835485"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-R6l5ptr8vG0/X2mWnlImRuI/AAAAAAAAl88/iokBkOrBQXYYyKUB6f6SmF0kItBxKZZEwCLcBGAsYHQ/s320/257.jpg",
+  "length" : "",
+  "title" : "ခြေသုတ်ပုဆိုး မြွေစွယ်ကျိုး(မိုးတိမ် ,ဆန်းသစ် ,ဆယ်ပြား ,ဆယ်သိန်း )",
+  "genre" : "joker",
+  "video" : "558862807835415"
+},{
+  "cover" : "https://1.bp.blogspot.com/-F-WMsmPoYkI/X2mWnV87-8I/AAAAAAAAl84/Rd4sfRBHOCAlbZs4DYeS6ggQFVUAos6qACLcBGAsYHQ/s320/256.jpg",
+  "length" : "",
+  "title" : "လောကမှာငွေ(စိမ်းလန်း ,စိုပြေ ,ဒိုးလုံး ,တွတ်ပီ)",
+  "genre" : "joker",
+  "video" : "558864691168560"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-sVf9V_CKTTA/X2mWnerwu0I/AAAAAAAAl80/u0LwFwkQbLwTTmcqoaWyVsCIn8-F-fZ7QCLcBGAsYHQ/s320/255.jpg",
+  "length" : "",
+  "title" : "ငါသိငါတတ်(ပေါ်ဦး ,အောင်ချစ် ,ချစ်ကောင်း ,ချစ်ပွင့်)",
+  "genre" : "joker",
+  "video" : "558875324500830"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-PzxhulbiFtg/X2mWnPIfkNI/AAAAAAAAl8w/8kC9tRzmcCIawZptt7LqQBWhkQiw6xaIwCLcBGAsYHQ/s320/254.jpg",
+  "length" : "",
+  "title" : "ကတ်သီးကတ်သတ်(သဲမောင် ,အက်ဆစ် ,အာဘွား ,အာကျယ်)",
+  "genre" : "joker",
+  "video" : "597672967287732"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-AduAftypItM/X2mWm_fIUeI/AAAAAAAAl8s/QNUgQWmuNngjyRcFlc-99XbMfEnbFgVGwCLcBGAsYHQ/s320/253.jpg",
+  "length" : "",
+  "title" : "ကန့်လန့်တိုက်သူများ(မိုးတိမ် ,ဆန်းသစ် ,ဖိုးလမင်း ,ဓာတ်အိုး)",
+  "genre" : "joker",
+  "video" : "597702287284800"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-qaJS48eaG7w/X2mWm_zbYUI/AAAAAAAAl8o/k7AS7MJlg_8ryIUM8o-YlT8FWKrjymfMQCLcBGAsYHQ/s320/252.jpg",
+  "length" : "",
+  "title" : "မျှော်လင့်ချက်တစ်စုံတစ်ရာ(မိုးတိမ် ,ဆန်းသစ် ,စိုပြေ ,စိမ်းလန်း)",
+  "genre" : "joker",
+  "video" : "601960596858969"
+},{
+  "cover" : "https://1.bp.blogspot.com/-YBLx34-Awi8/X2mWmnuJ32I/AAAAAAAAl8k/SAHxa4Gw5xk_xn3lijswt7XYA7LZ4bTFwCLcBGAsYHQ/s320/251.jpg",
+  "length" : "",
+  "title" : "အဆိုတော်ဖြစ်ချင်လို့(ပေါ်ဦး ,အောင်ချစ် ,ဝမ်းတူး ,တိမ်ယံ)",
+  "genre" : "joker",
+  "video" : "601961640192198"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ktfD2gSJOdI/X2mWmQtUWiI/AAAAAAAAl8g/JessIFrFJVg-uK3QmGnPBNJvMwI8wrmuQCLcBGAsYHQ/s320/250.jpg",
+  "length" : "",
+  "title" : "စာရေးတဲ့ဆရာ(ချစ်ကောင်း ,ချစ်ပွင့် ,အာဘွား ,အာကျယ်)",
+  "genre" : "joker",
+  "video" : "601964466858582"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-qbr7tiRiEok/X2mWmHKQM0I/AAAAAAAAl8Y/LN4p6yovHqo77y8J43HGJlSHJLYNELHOgCLcBGAsYHQ/s320/249.jpg",
+  "length" : "",
+  "title" : "ဂုဏ်ထူးဘွဲ့ထူး(စိုပြေ ,စိမ်းလန်း ,ဆယ်ပြား ,ဆယ်သိန်း)",
+  "genre" : "joker",
+  "video" : "603353936719635"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-wwc3z2Q918o/X2mWlootCgI/AAAAAAAAl8U/T5sSLgK4p4YhG4Re6S9TNPfw5sas6pgjQCLcBGAsYHQ/s320/248.jpg",
+  "length" : "",
+  "title" : "ပုံပြောကောင်းသူ(မိုးတိမ် ,ဆန်းသစ် ,ဒိုးလုံး ,တွတ်ပီ)",
+  "genre" : "joker",
+  "video" : "603071800081182"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-16BQkPEcrR0/X2mWlpAjSdI/AAAAAAAAl8Q/LQ_Hu1u8LTg7QysXW1BPc5E6iDFI-j_oQCLcBGAsYHQ/s320/247.jpg",
+  "length" : "",
+  "title" : "အံ့ဩကုန်နိုင်ဖွယ်(ဖိုးလမင်း ,ဓာတ်အိုး ,ဆယ်ပြား ,ဆယ်သိန်း)",
+  "genre" : "joker",
+  "video" : "603072410081121"
+},{
+  "cover" : "https://1.bp.blogspot.com/-7CrkwdOsil4/X2mWlvTcwyI/AAAAAAAAl8M/YniDj9UzSwExGPIbXqQrmTezls6UFnA8wCLcBGAsYHQ/s320/246.jpg",
+  "length" : "",
+  "title" : "တောပြောတောင်ပြော(ဝမ်းတူး ,တိမ်ယံ ,အာဘွား ,အာကျယ်)",
+  "genre" : "joker",
+  "video" : "607690326285996"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-IypC1xAvIp8/X2mWlYfX4hI/AAAAAAAAl8E/tV2ysHzzYhA51hnaax5kkgpd1k7FroPswCLcBGAsYHQ/s320/245.jpg",
+  "length" : "",
+  "title" : "မျိုးနဲ့ရိုးနဲ့(ပေါ်ဦး ,အောင်ချစ် ,သဲမောင် ,အက်ဆစ်)",
+  "genre" : "joker",
+  "video" : "607674959620866"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-hA89ZUFgHBE/X2mWkirps9I/AAAAAAAAl8I/IiA2z4zJLckTyZHfL-Aus2Xpb6CIDqN3gCLcBGAsYHQ/s320/244.jpg",
+  "length" : "",
+  "title" : "အနာနဲ့ဒေါက်တာ(ဝမ်းတူး ,တိမ်ယံ ,သဲမောင် ,အက်ဆစ်)",
+  "genre" : "joker",
+  "video" : "608677439520618"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-2CvraDLKFps/X2mWkvbGdnI/AAAAAAAAl8A/aE_8_mu6r1QkBPcJEjs9WiUznITLz5EJgCLcBGAsYHQ/s320/243.jpg",
+  "length" : "",
+  "title" : "တွေးတွေးဆဆ(ဖိုးလမင်း ,ဓာတ်အိုး ,စိုပြေ ,စိမ်းလန်း)",
+  "genre" : "joker",
+  "video" : "609559286099100"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-dEnx88SoqtY/X2mWkkkZQnI/AAAAAAAAl78/RP1q3wEZiSInD3VVgVlEPJt8MVZlsusIQCLcBGAsYHQ/s320/242.jpg",
+  "length" : "",
+  "title" : "သည်းခံလိုက်ပါ(ဒိုးလုံး ,တွတ်ပီ ,ဆယ်ပြား ,ဆယ်သိန်း)",
+  "genre" : "joker",
+  "video" : "608702752851420"
+},{
+  "cover" : "https://1.bp.blogspot.com/-3dJOk566F_k/X2mWkMioRdI/AAAAAAAAl74/a9vI2FbQ6IABh_eqjKgAhRTUA2H1a2UGQCLcBGAsYHQ/s320/241.jpg",
+  "length" : "",
+  "title" : "မေ့မေ့ပျောက်ပျောက်(ဒိုးလုံး ,တွတ်ပီ ,ဖိုးလမင်း ,ဓာတ်အိုး)",
+  "genre" : "joker",
+  "video" : "608683476186681"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-qWVKv5X5fLg/X2mWj5MpTfI/AAAAAAAAl7w/pZzDS1IEpfgrZ5F4Ifc5Qvtxx2Y9ppNJACLcBGAsYHQ/s320/240.jpg",
+  "length" : "",
+  "title" : "သရုပ်ဆောင်ကောင်း(ချစ်ကောင်း ,ချစ်ပွင့် ,သဲမောင် ,အက်ဆစ်)",
+  "genre" : "joker",
+  "video" : "608688446186184"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-VoxWikmG1Jk/X2mWjn1PHKI/AAAAAAAAl7s/Db6esD6Ayis7vxZr9fyFjCf2WIS8v5ltgCLcBGAsYHQ/s320/239.jpg",
+  "length" : "",
+  "title" : "ကံထူးရှင်(အာဘွား ,အာကျယ် ,ပေါ်ဦး ,အောင်ချစ်)",
+  "genre" : "joker",
+  "video" : "608691336185895"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-61n8NCpp68w/X2mWjCJGwYI/AAAAAAAAl7k/1pGVyyazlHomJWgeLarB_l9bibEigKrigCLcBGAsYHQ/s320/238.jpg",
+  "length" : "",
+  "title" : "အဆောင်ကောင်း(ချစ်ကောင်း ,ချစ်ပွင့် ,ဝမ်းတူး ,တိမ်ယံ)",
+  "genre" : "joker",
+  "video" : "612848885770140"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-SOm-ETaGDKQ/X2mWjETWCNI/AAAAAAAAl7o/s8eUCt1d_4gAgtc50nioxM9cAyCZIIHXACLcBGAsYHQ/s320/237.jpg",
+  "length" : "",
+  "title" : "ရှေ့ပြောနောက်ကြည့်(သဲမောင် ,အက်ဆစ် ,မိုးတိမ် ,ဆန်းသစ်)",
+  "genre" : "joker",
+  "video" : "612852042436491"
+},{
+  "cover" : "https://1.bp.blogspot.com/-p--9J6qOYjE/X2mWi8GJUaI/AAAAAAAAl7g/z4YRVD_NoVY3K4aMkRegn2nICfTfUlIrgCLcBGAsYHQ/s320/236.jpg",
+  "length" : "",
+  "title" : "ယောင်ခြောက်ဆယ်(စိုပြေ ,စိမ်းလန်း ,ပေါ်ဦး ,အောင်ချစ်)",
+  "genre" : "joker",
+  "video" : "612856945769334"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-NMD-30_qwD8/X2mWiW6pN0I/AAAAAAAAl7c/nd-4XKQKrFclHPezaHb8BfLzu3lVUwAXgCLcBGAsYHQ/s320/235.jpg",
+  "length" : "",
+  "title" : "ဘာတတ်နိုင်သေးလဲ(စိုပြေ ,စိမ်းလန်း ,သဲမောင် ,အက်ဆစ်)",
+  "genre" : "joker",
+  "video" : "612867399101622"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-JsQbJ-KKJU0/X2mWiDPIioI/AAAAAAAAl7Y/NRzJXM4k6qwkINDIV7BasIwc5rxxVVPagCLcBGAsYHQ/s320/234.jpg",
+  "length" : "",
+  "title" : "ယူတတ်ရင်ရတယ်(ပေါ်ဦး ,အောင်ချစ် ,မိုးတိမ် ,ဆန်းသစ်)",
+  "genre" : "joker",
+  "video" : "612873369101025"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-oy3RlYQRUFE/X2mWiFW76qI/AAAAAAAAl7U/KUeh8UKZk_oBsOd5YWSewg128T_nFhFmgCLcBGAsYHQ/s320/233.jpg",
+  "length" : "",
+  "title" : "ရှေးဟောင်းနှောင်းဖြစ်+ကဖျက်ယဖျက်",
+  "genre" : "joker",
+  "video" : "612875982434097"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ebkzhBImSp4/X2mWhou94eI/AAAAAAAAl7Q/3-cCGdEYln8rSAZNvkRfqn3l6dqLHxS7ACLcBGAsYHQ/s320/232.jpg",
+  "length" : "",
+  "title" : "အံ့သြကုန်နိုင်ဖွယ်+ ကတ်သီးကတ်သတ်",
+  "genre" : "joker",
+  "video" : "612884059099956"
+},{
+  "cover" : "https://1.bp.blogspot.com/-yFZR4nV9czk/X2mWhW0zbOI/AAAAAAAAl7M/16av37pJuxY6dy18O2qLBm7VeW_HOOmuACLcBGAsYHQ/s320/231.jpg",
+  "length" : "",
+  "title" : "အကြပ်အတည်း+ဘာညာကွိကွ(မိုးတိမ် ,ဒဲ့ဒိုး ,ချစ်ချော ,ပွမ်ပွမ်)",
+  "genre" : "joker",
+  "video" : "612886459099716"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-EWfeL49CeuU/X2mWhYA9isI/AAAAAAAAl7I/0bMIRtwxOWkdFomPRSmRFJLhXDnneAtGgCLcBGAsYHQ/s320/230.jpg",
+  "length" : "",
+  "title" : "စပ်မိစပ်ရာ+အောက်မေ့ဖွယ်ရာ(စံပေါ ,ပေါက်ကျော် ,စံလင်း ,စံမိုး)",
+  "genre" : "joker",
+  "video" : "612894095765619"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-VKCKoOp9eIQ/X2mWg8qLPeI/AAAAAAAAl7A/aeNmSIldOtkt6oflSutFUNTBfpU2fyowwCLcBGAsYHQ/s320/229.jpg",
+  "length" : "",
+  "title" : "ဟာသမင်းသား+သူ့အကြောင်းကိုယ့်အကြောင်း(စတားကျော်မိုး ,မိုင်နိုးတူး ,ဧရာ ,ဝင်းနိုင်)",
+  "genre" : "joker",
+  "video" : "612900302431665"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-q4E5aNlUVk4/X2mWg1qd1wI/AAAAAAAAl68/vwvjd6ED6oQZ8VH6_KAfYguWVesd7oAfACLcBGAsYHQ/s320/228.jpg",
+  "length" : "",
+  "title" : "ပွဲနေပွဲထိုင်(ချစ်ကောင်း ,ချစ်ပွင့် ,တိုက်ကား ,ဝမ်းမိုး)",
+  "genre" : "joker",
+  "video" : "612905702431125"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-2h_IxQ_hPmI/X2mWgvbxZcI/AAAAAAAAl64/exUtt7bTT1YqGmkUHZ6R5O8ycT-QJYtlACLcBGAsYHQ/s320/227.jpg",
+  "length" : "",
+  "title" : "မျိုးကောင်းရိုးကောင်း(သဲမောင် ,အက်ဆစ် ,တော်ဝင် ,နိုးတူး)",
+  "genre" : "joker",
+  "video" : "623369198051442"
+},{
+  "cover" : "https://1.bp.blogspot.com/-IWeLgjlCVnY/X2mWgS50MRI/AAAAAAAAl60/5FWyy0onxEYlVkzd_O5t47uOOY2uoKszwCLcBGAsYHQ/s320/226.jpg",
+  "length" : "",
+  "title" : "မြှောက်ထိုးပင့်ကော်(ဒဲ့ဒိုး ,တိမ်ယံ ,ပြည်ချစ် ,ဒိုးဒိုး)",
+  "genre" : "joker",
+  "video" : "623381311383564"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-acvdAxB017Q/X2mWgXaRlXI/AAAAAAAAl6w/9TDa3FESE6saPDsFrp5-is9cIAuECmBMQCLcBGAsYHQ/s320/225.jpg",
+  "length" : "",
+  "title" : "ကလေးအတွေး(မိုးလေး ,ဝမ်းတူး ,ပေါင်မုန့် ,အာကာ)",
+  "genre" : "joker",
+  "video" : "623394644715564"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-pRLg9Q8vyvE/X2mWgD-Ht0I/AAAAAAAAl6s/SaT9RP_s3gIKLeEI18VliAl6-5k3kMVJACLcBGAsYHQ/s320/224.jpg",
+  "length" : "",
+  "title" : "ပွဲတိုင်းကျော်(စိမ်းလန်း ,စိုပြေ ,ချစ်ကောင်း ,ချစ်ပွင့်)",
+  "genre" : "joker",
+  "video" : "623402808048081"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-494DKGP6kl4/X2mWf9kRQrI/AAAAAAAAl6k/CBNjUYtWaHs-u_LMJWlSr41rkphEH7_dgCLcBGAsYHQ/s320/223.jpg",
+  "length" : "",
+  "title" : "သောင်းပြောင်းထွေလာ+ နှောင်းခေတ်ဟာသ",
+  "genre" : "joker",
+  "video" : "623407481380947"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-uI6_gP5tKOM/X2mWgHyFLJI/AAAAAAAAl6o/TZIpp1VY7z0QRrc1izfSbMJCfIYAwo39QCLcBGAsYHQ/s320/222.jpg",
+  "length" : "",
+  "title" : "လူရိပ်လူကဲ(ဒဲ့ဒိုး ,တိမ်ယံ ,တော်ဝင် ,နိုးတူး)",
+  "genre" : "joker",
+  "video" : "623412601380435"
+},{
+  "cover" : "https://1.bp.blogspot.com/-QoAhhEz6b3A/X2mWfldn9OI/AAAAAAAAl6g/yOl3oXk_nAwBLkRfAgRglSRYUDtQhKIkwCLcBGAsYHQ/s320/221.jpg",
+  "length" : "",
+  "title" : "ပြစ်မျိုးမှဲ့မထင်(ပြည်ချစ် ,ဒိုးဒိုး ,သဲမောင် ,အက်ဆစ်)",
+  "genre" : "joker",
+  "video" : "623428994712129"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-iH19EuTo8sA/X2mWfkjmQoI/AAAAAAAAl6c/IrM-7X8q2eYFOJioQ2EM6qyMUytYeoRhwCLcBGAsYHQ/s320/220.jpg",
+  "length" : "",
+  "title" : "ဆောင်ရန်ရှောင်ရန်(မိုးလေး ,ဝမ်းတူး ,တိုက်ကား ,ဝမ်းမိုး)",
+  "genre" : "joker",
+  "video" : "623436644711364"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-VGp_neLApx0/X2mWfQ9WieI/AAAAAAAAl6U/3IV0xQ6TwIciSN1YY7pIkCc0NW5dTZyIACLcBGAsYHQ/s320/219.jpg",
+  "length" : "",
+  "title" : "သူ့သမိုင်း ကိုယ့်သမိုင်း(မိုးတိမ် ,ဆန်းသစ် ,ပေါ်ဦး ,အောင်ချစ်)",
+  "genre" : "joker",
+  "video" : "623450388043323"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-KCA2iQcqqVg/X2mWfAiS9LI/AAAAAAAAl6Q/VrkSnWa9VPkf1IRHH-hH-eFo7vF1f0AGQCLcBGAsYHQ/s320/218.jpg",
+  "length" : "",
+  "title" : "ဟုတ်သော်ရှိ မဟုတ်သော်ရှိ(တိုက်ကား ,ဝမ်းမိုး ,ပေါင်မုန့် ,အာကာ)",
+  "genre" : "joker",
+  "video" : "623466754708353"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-aGgZV9l-dYQ/X2mWfHIKFuI/AAAAAAAAl6M/qJ228TWYr3EfFQFgCTiRK8wIaXc1hM1fACLcBGAsYHQ/s320/217.jpg",
+  "length" : "",
+  "title" : "တွေ့ရာသင်္ချိုင်းဓားမဆိုင်း(သဲမောင် ,အက်ဆစ် ,ဆန်းရှဲဒိုး ,မိုးထက်)",
+  "genre" : "joker",
+  "video" : "623480798040282"
+},{
+  "cover" : "https://1.bp.blogspot.com/-XGmAxZ-uDJU/X2mWe7d1s8I/AAAAAAAAl6I/g4vnfUdivt8Z2_b6niMn8h3Gy_YR-4bPQCLcBGAsYHQ/s320/216.jpg",
+  "length" : "",
+  "title" : "ဝေဝေဝါးဝါး(မိုးလေး ,ဝမ်းတူး ,ချစ်ကောင်း ,ချစ်ပွင့်)",
+  "genre" : "joker",
+  "video" : "623492248039137"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-06k197uOBKc/X2mWeXXgAVI/AAAAAAAAl6A/2VGfHE0JXEcNITqLZbcX_B7pNL7dDacMQCLcBGAsYHQ/s320/215.jpg",
+  "length" : "",
+  "title" : "သူ့ခေတ်နဲ့သူ + ကိုယ်သန်ရာသန်ရာ(ဂျင်မီဇရက် ,မိုင်းရှိူးလေး ,ဧရာ ,ဝင်းနိုင်)",
+  "genre" : "joker",
+  "video" : "623501501371545"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-dZ2LTz7sAdk/X2mWeeBSSlI/AAAAAAAAl6E/e_2cmr8HXEcCE-3MywrOyAXLa4KKSBfLACLcBGAsYHQ/s320/214.jpg",
+  "length" : "",
+  "title" : "တွေ့ကရာရှစ်သောင်း(စိမ်းလန်း ,စိုပြေ ,ပေါင်မုန့် ,အာကာ)",
+  "genre" : "joker",
+  "video" : "623508488037513"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-lzLU_Cp6Fqk/X2mWeaS4UdI/AAAAAAAAl58/5GoAFlz20M8BFyRCefK9IPjPDNF6flR2wCLcBGAsYHQ/s320/213.jpg",
+  "length" : "",
+  "title" : "ထားရာနေ စေရာသွား(ဒဲ့ဒိုး ,တိမ်ယံ ,ဆန်းရှဲဒိုး ,မိုးထက်)",
+  "genre" : "joker",
+  "video" : "623524108035951"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ooN9aldps3Y/X2mWeAw-pBI/AAAAAAAAl54/1_jT8l3qHSIwr3TMr6jHsHnOKXrH6pJiwCLcBGAsYHQ/s320/212.jpg",
+  "length" : "",
+  "title" : "တစ်ထောင်မှာ တစ်ယောက်(တော်ဝင် ,နိုးတူး ,ပြည်ချစ် ,ဒိုးဒိုး)",
+  "genre" : "joker",
+  "video" : "623560818032280"
+},{
+  "cover" : "https://1.bp.blogspot.com/-WIej7C0k5SQ/X2mWeGPlx5I/AAAAAAAAl50/sdx-lcHiBYgyBJh2y_oEdChXvTHeZLP5ACLcBGAsYHQ/s320/211.jpg",
+  "length" : "",
+  "title" : "အမျိုးဂုဏ် + အပြစ်မရှိ အပြစ်ရှာ",
+  "genre" : "joker",
+  "video" : "638363453218683"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-UzVtWxLj-kc/X2mWdzEWBFI/AAAAAAAAl5w/Kwk2ZGG9FoITk5CQqfl4nuUOVE7nlAZ6ACLcBGAsYHQ/s320/210.jpg",
+  "length" : "",
+  "title" : "အောင်အတိတ် အောင်နိမိတ်(ပေါင်မုန့် ,အာကာ ,ချစ်ကောင်း ,ချစ်ပွင့်)",
+  "genre" : "joker",
+  "video" : "638383266550035"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-GXf0r_5Kqtc/X2mWduMNaiI/AAAAAAAAl5o/IPFr_qsGD2Q5REd5pXjXz-IHeDH_EHoiwCLcBGAsYHQ/s320/209.jpg",
+  "length" : "",
+  "title" : "ချစ်တုန်းမုန်းစကားပြော(စိမ်းလန်း ,စိုပြေ ,တိုက်ကား ,ဝမ်းမိုး)",
+  "genre" : "joker",
+  "video" : "638398126548549"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-k5N2g9thDvU/X2mWdZYP6II/AAAAAAAAl5k/SPt5mKKGakANXxhTgac8Xrz-SvyLCrGvACLcBGAsYHQ/s320/208.jpg",
+  "length" : "",
+  "title" : "ဘယ်ဘက်ကစမ်းစမ်း(တော်ဝင် ,နိုးတူး ,ဆန်းရှဲဒိုး ,မိုးထက်)",
+  "genre" : "joker",
+  "video" : "638410293213999"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-kmR57NFa4bQ/X2mWdD5NcXI/AAAAAAAAl5g/-cyvgPk1fMoWa3_dtAVrF5qVK52Nn8u-QCLcBGAsYHQ/s320/207.jpg",
+  "length" : "",
+  "title" : "ကံဇာတ်ဆရာ(ဒဲ့ဒိုး ,တိမ်ယံ ,သဲမောင် ,အက်ဆစ်)",
+  "genre" : "joker",
+  "video" : "638419073213121"
+},{
+  "cover" : "https://1.bp.blogspot.com/-LEJp2ORsf6U/X2mWdBu9mmI/AAAAAAAAl5c/VAXTzQVWJOAbE8LjYr2NgDVCIUFUemVbwCLcBGAsYHQ/s320/206.jpg",
+  "length" : "",
+  "title" : "ထွေရာလေးပါး+ပေါက်ကရလေးဆယ်(ရာကျော် ,ရေချမ်း ,ပေါ်ဦး ,အောင်ချစ်)",
+  "genre" : "joker",
+  "video" : "638427923212236"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-fEsSeA_p3LM/X2mWcxwkMAI/AAAAAAAAl5Y/Mv8h7wG3m0gk4lxVtnp68CTaO2c6NYnIwCLcBGAsYHQ/s320/205.jpg",
+  "length" : "",
+  "title" : "နှစ်ပေါက်တစ်ပေါက်(စိမ်းလန်း ,စိုပြေ ,မိုးလေး ,ဝမ်းတူး)",
+  "genre" : "joker",
+  "video" : "638500833204945"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-EJYWdWCgpms/X2mWcSPT5HI/AAAAAAAAl5U/Kqd_SQkt_8YRZtY3Pj2XqwcS8ifiJrh8gCLcBGAsYHQ/s320/204.jpg",
+  "length" : "",
+  "title" : "အားကိုးအားထား(ပြည်ချစ် ,ဒိုးဒိုး ,ဆန်းရှဲဒိုး ,မိုးထက်)",
+  "genre" : "joker",
+  "video" : "638504249871270"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/---0PMseppuA/X2mWcfO_BvI/AAAAAAAAl5Q/ny4aoxjtcVYDRj3IEfelfJQjRaKQqjoRQCLcBGAsYHQ/s320/203.jpg",
+  "length" : "",
+  "title" : "သတင်းလား အတင်းလား(ပြည်ချစ် ,ဒိုးဒိုး ,မိုးလေး ,ဝမ်းတူး)",
+  "genre" : "joker",
+  "video" : "638510466537315"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-XYn9E5Ts0Ck/X2mWcWTRt2I/AAAAAAAAl5M/5NodpDfi-cUCvCoQ8giHgXfgVGss4T2EgCLcBGAsYHQ/s320/202.jpg",
+  "length" : "",
+  "title" : "စကားထဲက ဇာတိပြ(ဒဲ့ဒိုး ,တိမ်ယံ ,ပေါင်မုန့် ,အာကာ)",
+  "genre" : "joker",
+  "video" : "640017739719921"
+},{
+  "cover" : "https://1.bp.blogspot.com/-lJfWKpOs5o8/X2mWbJGtRaI/AAAAAAAAl5E/SqShI8bo0sQAc5yKMDqXH97HSPtMDnslgCLcBGAsYHQ/s320/201.jpg",
+  "length" : "",
+  "title" : "မဆိုးပါဘူး(ပြည်ချစ် ,ဒိုးဒိုး , ပေါင်မုန့် ,အာကာ)",
+  "genre" : "joker",
+  "video" : "645653235823038"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-e-oQdJ6CWho/X2mWbDLTBMI/AAAAAAAAl5I/d9A13NEqs3QnmcH-6wKSFIMAeodwAxGVACLcBGAsYHQ/s320/200.jpg",
+  "length" : "",
+  "title" : "ကောင်းကင်တမွတ်ကြယ်ကိုဆွတ်အံ့(ဒဲ့ဒိုး ,တိမ်ယံ ,မိုးလေး ,ဝမ်းတူး)",
+  "genre" : "joker",
+  "video" : "645654435822918"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ZqIFzz2Et_4/X2mWaSdxkYI/AAAAAAAAl44/791NyFy9RJwKAPs3qZpqIT3j4rizzcPuwCLcBGAsYHQ/s320/199.jpg",
+  "length" : "",
+  "title" : "လူစုံတက်စုံ(အာကာ ,ချစ်ဦး ,လှိုင်ဘွား ,ဂျယ်လီ)",
+  "genre" : "joker",
+  "video" : "645756849146010"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ps4YB8ga2rI/X2mWZ1RH5II/AAAAAAAAl40/URUEy1ui_VsToW1WYRQGEaBGi4BRQIWvQCLcBGAsYHQ/s320/198.jpg",
+  "length" : "",
+  "title" : "ဆေးမြီးတို(ပေါင်မုန့် ,ပေါက်စီ ,ချစ်ထူး ,ရွှေထူး)",
+  "genre" : "joker",
+  "video" : "645690825819279"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-8qDRAdECFxU/X2mWZ1dVYbI/AAAAAAAAl4w/SlXrTAQIK3w9-Q8kS77obiRglSjWXdiawCLcBGAsYHQ/s320/197.jpg",
+  "length" : "",
+  "title" : "ကိုယ်နဲ့တန်ရာတန်ရာ(စိမ်းလန်း ,ဇော်နိုင် ,ပြည်ချစ် ,ဒိုးဒိုး)",
+  "genre" : "joker",
+  "video" : "645699872485041"
+},{
+  "cover" : "https://1.bp.blogspot.com/-F5PsftrreJw/X2mWZo4KDXI/AAAAAAAAl4s/Jsed3B-J_VsEk_NQoANoDROxxbi7XZ2wwCLcBGAsYHQ/s320/196.jpg",
+  "length" : "",
+  "title" : "ဆိုကြမယ် ငိုကြမယ်(သဲမောင် ,အက်ဆစ် ,မိုးထက် ,ဆန်စိ)",
+  "genre" : "joker",
+  "video" : "645706079151087"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-Uo2YW_gBsL0/X2mWZgZbaAI/AAAAAAAAl4o/LktQ8AyetMQNc16W_9WXPadwtk2OLQoLwCLcBGAsYHQ/s320/195.jpg",
+  "length" : "",
+  "title" : "အလွဲကောင်း+ မီးသတိပြု(စံပေါ ,မိုးပွင့် ,ရာကျော် ,ရေချမ်း)",
+  "genre" : "joker",
+  "video" : "645735492481479"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-b9tLdGToRnE/X2mWZZAmjgI/AAAAAAAAl4k/VwMK4uozMHgW91wlHTD_2fffqLi9W5xmwCLcBGAsYHQ/s320/194.jpg",
+  "length" : "",
+  "title" : "ထွေရာလေးပါး(စိမ်းလန်း ,ဇော်နိုင် ,ပေါင်မုန့် ,ပေါက်စီ)",
+  "genre" : "joker",
+  "video" : "645738459147849"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-Y4c6nV_oHpU/X2mWZbmyyTI/AAAAAAAAl4g/z-HpLzeEjxEFv_3SBymi-cN80J_ConzMQCLcBGAsYHQ/s320/193.jpg",
+  "length" : "",
+  "title" : "သူနဲ့သာဆိုရင်(သဲမောင် ,အက်ဆစ် ,ချစ်ပွင့် ,ချစ်ထူး (မြေလတ်))",
+  "genre" : "joker",
+  "video" : "645748715813490"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-CGYBfinl_lY/X2mWZKE136I/AAAAAAAAl4c/UHkEOGp6-34guw_xdr1Q2rmqMtvBh4rlQCLcBGAsYHQ/s320/192.jpg",
+  "length" : "",
+  "title" : "အရိပ်အကဲ(ပြည်ချစ် ,ဒိုးဒိုး ,ဝမ်းတူး ,ငွေတိုး)",
+  "genre" : "joker",
+  "video" : "645746519147043"
+},{
+  "cover" : "https://1.bp.blogspot.com/-OImgqamYs9k/X2mWYGOy8VI/AAAAAAAAl4Y/WAUjOqpijxoOVW89yzjKlnjnUCO-b3OLACLcBGAsYHQ/s320/191.jpg",
+  "length" : "",
+  "title" : "အစားလား အကြွားလား(စိမ်းလန်း ,ဇော်နိုင် ,ချစ်ထူး ,ရွှေထူး)",
+  "genre" : "joker",
+  "video" : "645863119135383"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-OAJUBhMK0gE/X2mWYKC5VTI/AAAAAAAAl4U/4aN-CkXJZJAiRITWK7r4NGlViCT4gOE5ACLcBGAsYHQ/s320/190.jpg",
+  "length" : "",
+  "title" : "ဝါသနာအိုး(စိမ်းလန်း ,ဇော်နိုင် ,ဝမ်းတူး ,ငွေတိုး)",
+  "genre" : "joker",
+  "video" : "645867565801605"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-feGlQfi31fM/X2mWXjui80I/AAAAAAAAl4M/1bkpMZ6C9RsKu8LQO8YVpAz63hZhUWBRgCLcBGAsYHQ/s320/189.jpg",
+  "length" : "",
+  "title" : "ကိုယ်ရောက်ခဲ့တဲ့နိုင်ငံခြား(အာကာ ,ချစ်ဦး ,ချစ်ပွင့် ,ချစ်ထူး(မြေလတ်))",
+  "genre" : "joker",
+  "video" : "653819295006432"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-eGBn5ShmCpw/X2mWXaMVVWI/AAAAAAAAl4I/nGTepH2XxG8pDWW8jrepiOYXa3Hf0JhDACLcBGAsYHQ/s320/188.jpg",
+  "length" : "",
+  "title" : "မအူမလည်(သဲမောင် ,အက်ဆစ် ,လှိုင်ဘွား ,ဂျယ်လီ)",
+  "genre" : "joker",
+  "video" : "653786248343070"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-tuvtXPXaiqA/X2mWXUou6-I/AAAAAAAAl4E/wwHzydOPw_AAqfSpTCHPeiLq535izzA0gCLcBGAsYHQ/s320/187.jpg",
+  "length" : "",
+  "title" : "တောင်တစ်ခွန်းမြောက်တစ်ခွန်း+အတွေးသစ်အမြင်သစ်",
+  "genre" : "joker",
+  "video" : "653833095005052"
+},{
+  "cover" : "https://1.bp.blogspot.com/-0jK9mxBOq8Y/X2mWXaXC-fI/AAAAAAAAl4A/DovVdL5_RScMZKzFNFmF37NvcY5f8EIzwCLcBGAsYHQ/s320/186.jpg",
+  "length" : "",
+  "title" : "မအူမလည်+ရှေ့ဖြစ်နောက်ကြောင်း",
+  "genre" : "joker",
+  "video" : "653788725009489"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-0Rt9iaWKfok/X2mWW0Ke_RI/AAAAAAAAl38/F3Qt1fo2N-09F0LxbtkP9E1pVIYVnzziACLcBGAsYHQ/s320/185.jpg",
+  "length" : "",
+  "title" : "ဘာဖြစ်ချင်လဲပြော(အာကာ ,ချစ်ဦး ,မိုးထက် ,ဆန်စိ)",
+  "genre" : "joker",
+  "video" : "653787225009639"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-YPXATp4f7xA/X2mWWpEagcI/AAAAAAAAl34/RltFpj2i6NQnZjGb2gaeufuQdo927xelwCLcBGAsYHQ/s320/184.jpg",
+  "length" : "",
+  "title" : "ငါဆရာကြီး(ပြည်ချစ် ,ဒိုးဒိုး ,ချစ်ထူး ,ရွှေထူး)",
+  "genre" : "joker",
+  "video" : "653179068403788"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-8J16xn69yCA/X2mWWsIvPAI/AAAAAAAAl30/mlI-lJSGcW0__50xp_dMcxU15cmDJX2MQCLcBGAsYHQ/s320/183.jpg",
+  "length" : "",
+  "title" : "လူမသိ သူမသိ(ဝမ်းတူး ,ငွေတိုး ,ပေါင်မုန့် ,ပေါက်စီ)",
+  "genre" : "joker",
+  "video" : "653242025064159"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ArDHo2cuqrM/X2mWWVG7D2I/AAAAAAAAl3w/MOHfs69Sh5EOuf9meB-QpRxUwXCVN2TmwCLcBGAsYHQ/s320/182.jpg",
+  "length" : "",
+  "title" : "ကလေးတို့ဘဝ+အရေးကြုံရင်သက်လုံကောင်း",
+  "genre" : "joker",
+  "video" : "653849831670045"
+},{
+  "cover" : "https://1.bp.blogspot.com/-fhlz38poPRE/X2mWWcoUTXI/AAAAAAAAl3s/0iTXo6V5V70BN9BlrqdnU008-vQXIu61wCLcBGAsYHQ/s320/181.jpg",
+  "length" : "",
+  "title" : "ကိုယ့်စတိုင်လ်နဲ့ကိုယ်(မိုးထက် ,ဆန်စိ ,လှိုင်ဘွား ,ဂျယ်လီ)",
+  "genre" : "joker",
+  "video" : "660421031012925"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-_Zo6qy2hl5g/X2mWWJ4pLfI/AAAAAAAAl3o/8M2o7BmmcCMSLuOpalRl-5wmyZMfPEV3QCLcBGAsYHQ/s320/180.jpg",
+  "length" : "",
+  "title" : "ကိုယ့်သမိုင်းနဲ့ကိုယ်(ပြည်ချစ် ,ဒိုးဒိုး ,ပေါင်မုန့် ,ပေါက်စီ)",
+  "genre" : "joker",
+  "video" : "660424054345956"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-AimW4TI4Pss/X2mWVcSUJUI/AAAAAAAAl3g/pBNKY70PN603MrKAbGnyP48hda5V1T1ZQCLcBGAsYHQ/s320/179.jpg",
+  "length" : "",
+  "title" : "မှန်သားထက်ကမျက်နှာ(ချစ်ပွင့် ,ချစ်ထူး(မြေလတ်) ,လှိုင်ဘွား ,ဂျယ်လီ)",
+  "genre" : "joker",
+  "video" : "660433351011693"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-Ua0XDPldI5Y/X2mWVFD-OSI/AAAAAAAAl3Y/QumDTLBQ4qYVxfeIbGBuOI6XGY_Kgmj9wCLcBGAsYHQ/s320/177.jpg",
+  "length" : "",
+  "title" : "ဆီဆိုင်ရာပတ်သက်ရာ+လေကြီးမိုးကြီး(ချက်ကြီး ,အောင်ချစ် ,ဒဲ့ဒိုး ,စိစိ)",
+  "genre" : "joker",
+  "video" : "660439501011078"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-qQH6wvV1x64/X2mWVBqh9II/AAAAAAAAl3U/ehnfGrpgqv4DpboLpYXqH59CdFjFFbmMwCLcBGAsYHQ/s320/176.jpg",
+  "length" : "",
+  "title" : "နောင်မှတတဲ့နောင်တ(ဝမ်းတူး ,ငွေတိုး ,ချစ်ထူး ,ရွှေထူး)",
+  "genre" : "joker",
+  "video" : "660447267676968"
+},{
+  "cover" : "https://1.bp.blogspot.com/-6pqCoid-3LQ/X2mWUjol-FI/AAAAAAAAl3Q/i4dC4K7q62kXSEp1xHijM8wSOH2HJ7llACLcBGAsYHQ/s320/175.jpg",
+  "length" : "",
+  "title" : "သူ့ဝါသနာ ကိုယ့်ဝါသနာ(ချစ်ပွင့် ,ချစ်ထူး(မြေလတ်) ,မိုးထက် ,ဆန်စိ)",
+  "genre" : "joker",
+  "video" : "662933590761669"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-pl-_4-XiCws/X2mWUoqzlAI/AAAAAAAAl3M/NDNy9mvqvJ0OksQuFTdezUT4NQBmc7FlQCLcBGAsYHQ/s320/174.jpg",
+  "length" : "",
+  "title" : "အားမနာ လျှာမကျိုး(သဲမောင် ,အက်ဆစ် ,အာကာ ,ချစ်ဦး)",
+  "genre" : "joker",
+  "video" : "662934597428235"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-5H-DldFaL0s/X2mWUZb6XwI/AAAAAAAAl3I/JO7nF_jJ-vQebywYj-_c18PKRBaDgVeHQCLcBGAsYHQ/s320/173.jpg",
+  "length" : "",
+  "title" : "အကြောင်းသိချင်း(ပြည်ချစ် ,ဒိုးဒိုး ,လှိုင်ဘွား,ဂျယ်လီ)",
+  "genre" : "joker",
+  "video" : "662970704091291"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-J3cqk8aftk4/X2mWUJJgxLI/AAAAAAAAl3A/EPFY2FgiybI3oR46LpF7hi4_rtxzBXyEwCLcBGAsYHQ/s320/172.jpg",
+  "length" : "",
+  "title" : "အတွေ့အကြုံ(မိုးထက် ,ဆန်စိ ,ပေါင်မုန့် ,ပေါက်စီ)",
+  "genre" : "joker",
+  "video" : "662987234089638"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-GSFAYl_WK0k/X2mWUPX4hcI/AAAAAAAAl3E/irqXvq_HHGYebVVKenjCWXs0390FYO1owCLcBGAsYHQ/s320/171.jpg",
+  "length" : "",
+  "title" : "လေကြီးမိုးကြီး(မိုးထက် ,ဆန်စိ ,ပြည်ချစ် ,ဒိုးဒိုး)",
+  "genre" : "joker",
+  "video" : "662998764088485"
+},{
+  "cover" : "https://1.bp.blogspot.com/-ZtVJ-U4FULk/X2mWT1S8sSI/AAAAAAAAl28/Q3qbTaSdZ6c3KEK_XiP-ARUep1S05vtrACLcBGAsYHQ/s320/170.jpg",
+  "length" : "",
+  "title" : "ထိုက်မှရတယ်(လှိုင်ဘွား ,ဂျယ်လီ ,ပေါင်မုန့် ,ပေါက်စီ)",
+  "genre" : "joker",
+  "video" : "663018074086554"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ObUh-gqsRFw/X2mWTcCG24I/AAAAAAAAl20/tmfYn2EiPo8hsl4ymEKN76rTDSJseqFkACLcBGAsYHQ/s320/169.jpg",
+  "length" : "",
+  "title" : "လူကြီးစကား/ ကျွန်တော်တို့ခေတ်က လူရွှင်တော်",
+  "genre" : "joker",
+  "video" : "670569659998062"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-n5UWRr3mpP0/X2mWS0Vt_8I/AAAAAAAAl2w/ZuvUOhJ-4e4Rwn2YyNgLZVtvz6Z6nbpvwCLcBGAsYHQ/s320/168.jpg",
+  "length" : "",
+  "title" : "နီးတကျက်ကျက် ဝေးတသက်သက်",
+  "genre" : "joker",
+  "video" : "670570389997989"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-EAvrtfNeQXw/X2mWSo0RTkI/AAAAAAAAl2s/1_BSfka9aPcNBQLTcEqzZbyBpbNCDOUMQCLcBGAsYHQ/s320/167.jpg",
+  "length" : "",
+  "title" : "စကားရော ဖောရော(ပြည်ချစ် ,ဒိုးဒိုး ,ဖွေးဖွေး ,ဇောင်းထက်)",
+  "genre" : "joker",
+  "video" : "670662739988754"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-X9__A9hvTkM/X2mWSlf22dI/AAAAAAAAl2o/-f0z6lyCkYcMXnST_XPIfwjcqmutkNZPQCLcBGAsYHQ/s320/166.jpg",
+  "length" : "",
+  "title" : "နာမည်တူမရှား လူတူမရှား(စိမ်းလန်း ,ဇော်နိုင် ,ဆန်းသစ် ,ဒေါ်လာ)",
+  "genre" : "joker",
+  "video" : "670586943329667"
+},{
+  "cover" : "https://1.bp.blogspot.com/-kiVchtQO1Ck/X2mWSa98JrI/AAAAAAAAl2k/E3TKGnQpes4BRDTdDDC9fOyTeDkA7y-gQCLcBGAsYHQ/s320/165.jpg",
+  "length" : "",
+  "title" : "တာဝန်ကိုယ်စီ / စပ်မိစပ်ရာ(ဝက်မ ,ပေါ်ဦး ,ဝင်းနိုင် ,ဓာတ်လင်း)",
+  "genre" : "joker",
+  "video" : "670587463329615"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-7tg5-WysKKY/X2mWRyEf1TI/AAAAAAAAl2g/jni4BYdWigEINKdKS4X3MbH864wjPHS0ACLcBGAsYHQ/s320/164.jpg",
+  "length" : "",
+  "title" : "ဗြောင်လိမ်ဗြောင်စား(အာကာ ,ချစ်ဦး ,ရွှေကျား ,ရွှေကောင်း)",
+  "genre" : "joker",
+  "video" : "670588203329541"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-EurSjypjq3Y/X2mWRpEm_uI/AAAAAAAAl2Y/sOQaFdrYxXcWGHzqz-5ENpTOwvMMuE_iACLcBGAsYHQ/s320/163.jpg",
+  "length" : "",
+  "title" : "မျက်စိကိုဖွင့် နားကိုစွင့်(ဝမ်းတူး ,ငွေတိုး ,ဖြူဖွေး ,ဘာမီတွန်)",
+  "genre" : "joker",
+  "video" : "670663469988681"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-jiTgPPohFnE/X2mWRpTXLyI/AAAAAAAAl2c/-eUyJtONZegwmOgm1wR-xiX5Sy4EXuPfACLcBGAsYHQ/s320/162.jpg",
+  "length" : "",
+  "title" : "အော့ကြောလန်(ဆန်းသစ် ,ဒေါ်လာ ,ပေါက်စီ ,အောင်ပ)",
+  "genre" : "joker",
+  "video" : "670589609996067"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-p9O-yLs5kqs/X2mWRVdt9wI/AAAAAAAAl2U/sCcK_eD7O8MDhnz8VzTGblnJisxG6i8-ACLcBGAsYHQ/s320/161.jpg",
+  "length" : "",
+  "title" : "ပွဲစဉ် (၁၆)",
+  "genre" : "joker",
+  "video" : "679162549138773"
+},{
+  "cover" : "https://1.bp.blogspot.com/-tQtBE95KF0Q/X2mWRNKyZyI/AAAAAAAAl2Q/SW2d8A7rbnMatRL1B_PPxm-z7HB-qu1bQCLcBGAsYHQ/s320/160.jpg",
+  "length" : "",
+  "title" : "အခု ဒီနေ့ည ယှဉ်ပြိုင်ကြမှာကတော့",
+  "genre" : "joker",
+  "video" : "679183625803332"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-Qt7nsKdz03k/X2mWQiaaduI/AAAAAAAAl2E/ZzsSVkhpVjUBHcdUimwq5cr6o8mClu0ewCLcBGAsYHQ/s320/159.jpg",
+  "length" : "",
+  "title" : "ကားပြောတော့ မပီ့တပီ(အောင်ချစ် ,ဒဲ့ဒိုး ,ရွှေကျား ,ရွှေကောင်း)",
+  "genre" : "joker",
+  "video" : "670678993320462"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-2OsObDimRes/X2mWQ5XXgUI/AAAAAAAAl2I/ZQOfPd-4iQUUTnfxAF2zvnUX6E7FfjKhQCLcBGAsYHQ/s320/158.jpg",
+  "length" : "",
+  "title" : "နှလုံးသားအရင်းအနှီး / အသက်ကြီးပေမယ့်မပျက်စီးသေးပါ",
+  "genre" : "joker",
+  "video" : "679227162465645"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-aPS4XoXYCpg/X2mWQv29vpI/AAAAAAAAl2A/K6lPbrR0RqQM4JCSZ8ZHknu4Gw5vhs8UgCLcBGAsYHQ/s320/157.jpg",
+  "length" : "",
+  "title" : "တတ်ယောင်ကား(ဝမ်းတူး ,ငွေတိုး ,အာကာ ,ရှောက်ပေါင်း)",
+  "genre" : "joker",
+  "video" : "670675273320834"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-APgfe8IwPms/X2mWQEW0J_I/AAAAAAAAl14/zhkfY_UKlrc9Pdx4wYxGXS52bovcRTkUgCLcBGAsYHQ/s320/156.jpg",
+  "length" : "",
+  "title" : "ဘာမသိ ညာမသိ(ဖွေးဖွေး ,ဇောင်းထက် ,ပေါက်စီ ,အောင်ပ)",
+  "genre" : "joker",
+  "video" : "670668723321489"
+},{
+  "cover" : "https://1.bp.blogspot.com/-vsJlUhguK8M/X2mWQMF9SuI/AAAAAAAAl18/CVhajPT7ilk1sI9K_ODtG_BlD6Wj-T4bwCLcBGAsYHQ/s320/155.jpg",
+  "length" : "",
+  "title" : "ဘာမသိ ညာမသိ(ဖွေးဖွေး ,ဇောင်းထက် ,ပေါက်စီ ,အောင်ပ)",
+  "genre" : "joker",
+  "video" : "670668723321489"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-6O2XudsIs5A/X2mWQDlTTYI/AAAAAAAAl10/1qRlXwzWVSkE_x-tpkvMB_zMeE8mpePUQCLcBGAsYHQ/s320/154.jpg",
+  "length" : "",
+  "title" : "နှောင်ကြိုး(ပြည်ချစ် ,ဒိုးဒိုး ,စိမ်းလန်း ,ဇော်နိုင်)",
+  "genre" : "joker",
+  "video" : "670680796653615"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ly2RHEKkZyg/X2mWPvEXCnI/AAAAAAAAl1s/29FZqHWUrN8ksDHguFVvEQ766adwXNDgACLcBGAsYHQ/s320/153.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား ",
+  "genre" : "joker",
+  "video" : "679285265793168"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-EhRiDFt2gwg/X2mWPkczLXI/AAAAAAAAl1w/SSEPE3-pPasCvgehUsK9k1mEOZeTYB-egCLcBGAsYHQ/s320/152.jpg",
+  "length" : "",
+  "title" : "ဆရာနဲ့တပည့် / ရိုးရာယဉ်ကျေးပညာပေး(ဧရာ ,စိစိ ,ဝင်းနိုင် ,ဓာတ်လင်း)",
+  "genre" : "joker",
+  "video" : "670726136649081"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-5-gWpNAUu-w/X2mWPsLZNJI/AAAAAAAAl1o/kBtstoFB3xkUVYtnW4QdBnWtU-7WrYbbQCLcBGAsYHQ/s320/151.jpg",
+  "length" : "",
+  "title" : "ဆူးလှည်း(ဝမ်းတူး ,ငွေတိုး ,အောင်ချစ် ,ဒဲ့ဒိုး)",
+  "genre" : "joker",
+  "video" : "670710856650609"
+},{
+  "cover" : "https://1.bp.blogspot.com/-iQ7TBfGyN70/X2mWPYYGWqI/AAAAAAAAl1k/JclQTZq3EvI5mEqKjRzbJj-osJYHFJiQgCLcBGAsYHQ/s320/150.jpg",
+  "length" : "",
+  "title" : "မလုံ့တလုံ(စိမ်းလန်း ,ဇော်နိုင် ,ပေါက်စီ ,အောင်ပ)",
+  "genre" : "joker",
+  "video" : "670708289984199"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-61mSPgpkQjc/X2mWPAppHPI/AAAAAAAAl1c/DKn2ejkf4KAt9Src04bw6kVSDHI7IxL9QCLcBGAsYHQ/s320/149.jpg",
+  "length" : "",
+  "title" : "အတ္တဟိတ ပရဟိတ(ဆန်းသစ် ,ဒေါ်လာ ,ဖွေးဖွေး ,မျက်ပြူး)",
+  "genre" : "joker",
+  "video" : "670709493317412"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-b_t0Rx-Jy8k/X2mWO2Vp4JI/AAAAAAAAl1Y/SLZZhft6hDg3y8l58NEipAEv1DfUKcfmQCLcBGAsYHQ/s320/148.jpg",
+  "length" : "",
+  "title" : "ဘယ်သူတွေ ပါဝင်ယှဉ်ပြိုင်ကြမလဲဆိုတော့",
+  "genre" : "joker",
+  "video" : "685746445147050"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-GeyQtk4tMuM/X2mWOi_yYtI/AAAAAAAAl1U/QwC4O7eGiTMClRM4YOPY9VL-Axu3O47HgCLcBGAsYHQ/s320/147.jpg",
+  "length" : "",
+  "title" : "ဟာသညီအစ်ကို / အလိမ္မာစာမှာရှိ",
+  "genre" : "joker",
+  "video" : "670729879982040"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-3qZWcJdONcc/X2mWOt4ke_I/AAAAAAAAl1Q/EqAdAW7aqDQvfE9ivO_R3h4zK2AHSz0swCLcBGAsYHQ/s320/146.jpg",
+  "length" : "",
+  "title" : "မနေတတ် မထိုင်တတ်(ပြည်ချစ် ,ဒိုးဒိုး ,ပေါက်စီ ,အောင်ပ)",
+  "genre" : "joker",
+  "video" : "682559272132434"
+},{
+  "cover" : "https://1.bp.blogspot.com/-CEfzaH6WI-g/X2mWOdevw_I/AAAAAAAAl1M/WNQn6_VRZ-Q_HeQGwRjyyNbq7pRWAdHyQCLcBGAsYHQ/s320/145.jpg",
+  "length" : "",
+  "title" : "လူသိရှင်ကြား(ရွှေကျား ,ရွှေကောင်း ,ဖြူဖွေး ,ဘာမီတွန်)",
+  "genre" : "joker",
+  "video" : "682574522130909"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-OFCSQe9hoC4/X2mWOd6LcvI/AAAAAAAAl1I/FoCAUMB_0ko63d20ah0YKwW6IM58PYMsACLcBGAsYHQ/s320/144.jpg",
+  "length" : "",
+  "title" : "ဆီကျန်ရေကျန်(အောင်ချစ် ,ဒဲ့ဒိုး ,အာကာ ,ချစ်ဦး )",
+  "genre" : "joker",
+  "video" : "682591248795903"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-2vX5Ev52t0Q/X2mWON-4kaI/AAAAAAAAl1E/WNL2CIQKJ_4oDj7g4vSCyXanUvl5ujIBwCLcBGAsYHQ/s320/143.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "693026271085734"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-aCcrtTTEwlA/X2mWOF6nowI/AAAAAAAAl1A/dCB-MQ5_QEgpM6WQ5mhC4vRkOIDlusTDwCLcBGAsYHQ/s320/142.jpg",
+  "length" : "",
+  "title" : "အကယ်၍သာ(စိမ်းလန်း ,ဇော်နိုင် ,ဖွေးဖွေး ,မျက်ပြူး)",
+  "genre" : "joker",
+  "video" : "682604482127913"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-yqLxwWKNOs8/X2mWNyD3eWI/AAAAAAAAl08/LSysPJ950souGeD6xGihFtwRDJKwchsZQCLcBGAsYHQ/s320/141.jpg",
+  "length" : "",
+  "title" : "ကပေါက်တိ ကပေါက်ချာ(ပြည်ချစ် ,ဒိုးဒိုး ,ဆန်းသစ် ,ဒေါ်လာ)",
+  "genre" : "joker",
+  "video" : "682622822126079"
+},{
+  "cover" : "https://1.bp.blogspot.com/-7wv2pHvqICk/X2mWNvuE9II/AAAAAAAAl04/Ju3mETyQiS837BBuyXcZaoEbIqDKLaqRQCLcBGAsYHQ/s320/140.jpg",
+  "length" : "",
+  "title" : "ပေါက်တဲ့နဖူး မထူးဘူး(ရွှေကျား ,ရွှေကောင်း ,ဝမ်းတူး ,ငွေတိုး)",
+  "genre" : "joker",
+  "video" : "682632395458455"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-hNsmxJLurt4/X2mWNSHhDQI/AAAAAAAAl0w/RNDWZqfC9s8fcr1DjpMZ8mVaipd-nN4-QCLcBGAsYHQ/s320/139.jpg",
+  "length" : "",
+  "title" : "အတွေးကောင်း အရေးကောင်း(ဖြူဖွေး ,ဘာမီတွန် ,အာကာ ,ရှောက်ပေါင်း)",
+  "genre" : "joker",
+  "video" : "689780534743641"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-khNu79cmhqk/X2mWNZzdTGI/AAAAAAAAl0s/xAJKNCViXEc0wseKB4l6h7eJv2Cxje1gACLcBGAsYHQ/s320/138.jpg",
+  "length" : "",
+  "title" : "ထိလွယ်ရှလွယ်(အောင်ချစ် ,ဒဲ့ဒိုး ,ဆန်းသစ် ,ဒေါ်လာ)",
+  "genre" : "joker",
+  "video" : "689798451408516"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-osSBlgXO8Mw/X2mWNLyhR8I/AAAAAAAAl0o/lLzRcd5xT_M_92S6cxoAHBVM-QEj4YHFwCLcBGAsYHQ/s320/137.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "698417550546606"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-f72USyWe_Eg/X2mWM8ENEiI/AAAAAAAAl0g/_OzgDDrHoeImbh02YwB-UE7HdlZeM1SUwCLcBGAsYHQ/s320/136.jpg",
+  "length" : "",
+  "title" : "ဗွေမယူကြေး(ပြည်ချစ် ,ဒိုးဒိုး ,ဝမ်းတူး ,ငွေတိုး)",
+  "genre" : "joker",
+  "video" : "689811991407162"
+},{
+  "cover" : "https://1.bp.blogspot.com/-nZ5Yc4zCxAw/X2mWM6WP1II/AAAAAAAAl0k/mSk7gcKDR6UKkUdhPQQzv3XUYTjNMLKYACLcBGAsYHQ/s320/135.jpg",
+  "length" : "",
+  "title" : "သဲထဲရေသွန်(ဆန်းသစ် ,ဒေါ်လာ ,ဝမ်းတူး ,ငွေတိုး)",
+  "genre" : "joker",
+  "video" : "689826821405679"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-GIl60PAOZa8/X2mWMv-OavI/AAAAAAAAl0c/r6ydbUNZDLArnLk_ZU-11cdYCE5k8vPXgCLcBGAsYHQ/s320/134.jpg",
+  "length" : "",
+  "title" : "ရွှေလိုချင်သလား ငွေလိုချင်သလား(အောင်ချစ် ,ဒဲ့ဒိုး ,ပြည်ချစ် ,ဒိုးဒိုး)",
+  "genre" : "joker",
+  "video" : "689833631404998"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-NuKZR7e7CXg/X2mWMahyaqI/AAAAAAAAl0U/n2Z-upk_2-YZhHW67I3Ay2cdU-Uu7UfMgCLcBGAsYHQ/s320/133.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "699916950396666"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-0srLzMH4DSI/X2mWMeSAhNI/AAAAAAAAl0Y/iWwCItenpAURO8yP-4p-jeBrmDl1P-1pQCLcBGAsYHQ/s320/132.jpg",
+  "length" : "",
+  "title" : "ဘုရားစူးရစေရဲ့(ပေါင်မုန့် ,ပေါက်စီ ,ပိုင်ကျော် ,ချစ်ဦး)",
+  "genre" : "joker",
+  "video" : "663543030700725"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-BwXjMTM7mO0/X2mWMKrKVeI/AAAAAAAAl0Q/S1f7OwLAXZMvdK4IizSm69S1YfJxiOIzgCLcBGAsYHQ/s320/131.jpg",
+  "length" : "",
+  "title" : "ရွှေစွန်ညို ဘာလိုလို့ဝဲ(ဝမ်းတူး ,ငွေတိုး ,ဆန်းသစ် ,ဒေါ်လာ)",
+  "genre" : "joker",
+  "video" : "663545374033824"
+},{
+  "cover" : "https://1.bp.blogspot.com/-grYHtY0t-pA/X2mWLzJsdgI/AAAAAAAAl0M/jPN-vlMfxpIBkZXBBqu8X-B9V50N9H1jwCLcBGAsYHQ/s320/130.jpg",
+  "length" : "",
+  "title" : "တောင်ပေါ်သားနဲ့ အညာသား(စိမ်းလန်း ,စိုပြေ ,ရွှေကျား ,ရွှေကောင်း)",
+  "genre" : "joker",
+  "video" : "663557597365935"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-GwYvmiyHNFc/X2mWLpItOII/AAAAAAAAl0E/rlGsP8sDIL4UEYyuwvw2aqc5aYiEaFJPgCLcBGAsYHQ/s320/129.jpg",
+  "length" : "",
+  "title" : "ဆရာ့ပညာအမွေအနှစ် အခြေအမြစ်ရှိရမယ်/စပ်မိစပ်ရာ",
+  "genre" : "joker",
+  "video" : "663553000699728"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-0zT_Oz_munU/X2mWLbhFFvI/AAAAAAAAlz8/Ct_Rq6IoxnYnJr_E51xuIFalaKWSDZRZwCLcBGAsYHQ/s320/128.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "702882713433423"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-mGFKxIlOZ1k/X2mWLYJ6ifI/AAAAAAAAl0A/wj6J41mmnIIcco9y73ofjOh9HlDWF5dSwCLcBGAsYHQ/s320/127.jpg",
+  "length" : "",
+  "title" : "လူ့ဘုံမြေလေး ငရဲဆီကုန်(ပြည်ချစ် ,သာဦး ,အောင်ပ ,အောရိန်း)",
+  "genre" : "joker",
+  "video" : "663558994032462"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-MX5TCLflhgQ/X2mWLM_rAlI/AAAAAAAAlz4/PVqr7hS444QBdr2w1hTHGgxIGrp5gCTCgCLcBGAsYHQ/s320/126.jpg",
+  "length" : "",
+  "title" : "မိုးနဲ့မြေကြီး(ဝမ်းတူး ,ငွေတိုး ,စိမ်းလန်း ,စိုပြေ)",
+  "genre" : "joker",
+  "video" : "663573667364328"
+},{
+  "cover" : "https://1.bp.blogspot.com/-UnZR6peJGGs/X2mWK9LSHhI/AAAAAAAAlz0/d5Jy7eQQRdIluHw0uiocP2iApD4otv2ZwCLcBGAsYHQ/s320/125.jpg",
+  "length" : "",
+  "title" : "ပါရမီရှင်များ(ဆန်းသစ် ,ဒေါ်လာ ,ရွှေကျား ,ရွှေကောင်း)",
+  "genre" : "joker",
+  "video" : "665232817198413"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-revM_YBnUtQ/X2mWK_ZypYI/AAAAAAAAlzw/ttB_HPDShh0EiUxhiiXwjNO_HYULtBvRgCLcBGAsYHQ/s320/124.jpg",
+  "length" : "",
+  "title" : "ဟန်ဆောင်ပန်ဆောင်(ပေါက်မဲ ,လေပြေ ,ပိုင်ကျော် ,ချစ်ဦး)",
+  "genre" : "joker",
+  "video" : "663575114030850"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-6D7t0p0ceyw/X2mWKtozbWI/AAAAAAAAlzs/Na0OAT0EMTg9mq217DpWbr57MCYG_oXxACLcBGAsYHQ/s320/123.jpg",
+  "length" : "",
+  "title" : "အနုပညာဟစ်တိုင်/အကျိုးပြု",
+  "genre" : "joker",
+  "video" : "665231723865189"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-1TJIx3AmIsg/X2mWKdSZ9AI/AAAAAAAAlzo/fitiri5lkgcENkgEdXd7mfWrOvRNrkJ4gCLcBGAsYHQ/s320/122.jpg",
+  "length" : "",
+  "title" : " လူရွှင်တော်စတား ",
+  "genre" : "joker",
+  "video" : "710487209339640"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-1RNeOJQpUnE/X2mWKRetd4I/AAAAAAAAlzk/TyaeLyY-3NQurYftFv9zbZgVX_8pzu62gCLcBGAsYHQ/s320/121.jpg",
+  "length" : "",
+  "title" : "ဆရာမပြ နည်းမကျ(ဆန်းသစ် ,ဒေါ်လာ ,ဝမ်းဖား ,ကောင်းကြိုက်)",
+  "genre" : "joker",
+  "video" : "665261267195568"
+},{
+  "cover" : "https://1.bp.blogspot.com/-3rvSP_WShjM/X2mWKHN9UZI/AAAAAAAAlzg/nIueBgxLnJ83yV94ndzkPOkhBUvFgXvlQCLcBGAsYHQ/s320/120.jpg",
+  "length" : "",
+  "title" : "တတ်သလောက် မှတ်သလောက်(ပြည်ချစ် ,သာဦး ,ပေါက်မဲ ,လေပြေ)",
+  "genre" : "joker",
+  "video" : "663580784030283"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-NQxvqbO7mAs/X2mWJ_h_9HI/AAAAAAAAlzY/D2S_vyAFoLQNA7vExWd5sHtQGdGr7ojPACLcBGAsYHQ/s320/119.jpg",
+  "length" : "",
+  "title" : "သူရဲကောင်းလား လူမိုက်လား(ပေါင်မုန့် ,ပေါက်စီ ,အောင်ပ ,အောရိန်း)",
+  "genre" : "joker",
+  "video" : "663571224031239"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-DVa1p_1PT5U/X2mWJskkyfI/AAAAAAAAlzU/L9PszWAgZW4GOCJOEvqRv_gHS5pzoDuGgCLcBGAsYHQ/s320/118.jpg",
+  "length" : "",
+  "title" : "အနုပညာနဲ့ အတုပညာ/အမြော်အမြင်",
+  "genre" : "joker",
+  "video" : "665214783866883"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-kGpOXVU4Ag8/X2mWJb_4A1I/AAAAAAAAlzQ/GryFPp3Zg_ofmXMJZOAezt6G9rzKnuE4ACLcBGAsYHQ/s320/117.jpg",
+  "length" : "",
+  "title" : "မြဝတီရုပ်မြင်သံကြားကနေ ထုတ်လွှင့်မယ့် လူရွှင်တော်စတား ",
+  "genre" : "joker",
+  "video" : "712674395787588"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-4lEOT7xkKYA/X2mWJUNHFFI/AAAAAAAAlzM/h3dk2j4iGAwUSCTEnHzNMz_KfRlH2v4wwCLcBGAsYHQ/s320/116.jpg",
+  "length" : "",
+  "title" : "ချော်လဲရောထိုင်(ဆန်းသစ် ,ဒေါ်လာ ,စိမ်းလန်း ,စိုပြေ)",
+  "genre" : "joker",
+  "video" : "665215523866809"
+},{
+  "cover" : "https://1.bp.blogspot.com/-qmYMT5vEQK4/X2mWJFlOZ7I/AAAAAAAAlzI/72yAsz-8KIscS7mE4IYOiuZ_lei5GQsoQCLcBGAsYHQ/s320/115.jpg",
+  "length" : "",
+  "title" : "ရွှေဧည့်သည်ငွေဧည့်သည်(ဝမ်းတူး ,ငွေတိုး ,ဝမ်းဖား ,ကောင်းကြိုက်)",
+  "genre" : "joker",
+  "video" : "665216483866713"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-_SymO3KJvzs/X2mWI74N2dI/AAAAAAAAlzE/JhwwKpL3gNAG06mMZNEjv4o6vafn5QCAQCLcBGAsYHQ/s320/114.jpg",
+  "length" : "",
+  "title" : "ရှေးရိုးအစဉ်အလာ(ပြည်ချစ် ,သာဦး ,ပိုင်ကျော် ,ချစ်ဦး)",
+  "genre" : "joker",
+  "video" : "665223033866058"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-T73q9vC5F_k/X2mWIiUlxTI/AAAAAAAAlzA/YYnkzgfbE1AC0CrQj4n_8T89hUh2vphggCLcBGAsYHQ/s320/113.jpg",
+  "length" : "",
+  "title" : "လူစုံတက်စုံ(ပေါက်မဲ ,လေပြေ ,အောင်ပ ,အောရိန်း)",
+  "genre" : "joker",
+  "video" : "665264273861934"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-domBgGAFAFA/X2mWH6o4RKI/AAAAAAAAly8/YjuwKjyqyeAmmNi91IqIZPW1n2TT8nT7ACLcBGAsYHQ/s320/112.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား ",
+  "genre" : "joker",
+  "video" : "718777785177249"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-Yj8Dguyrbrw/X2mWH5iDCXI/AAAAAAAAly0/yVW4tJfCJ7QzoX6QahTHwYQZzcbwufC_wCLcBGAsYHQ/s320/111.jpg",
+  "length" : "",
+  "title" : "လေရယ် သန္ဓေရယ် မျက်နှာရယ်/သူ့ခေတ်ကိုယ့်ခေတ်",
+  "genre" : "joker",
+  "video" : "665792997142395"
+},{
+  "cover" : "https://1.bp.blogspot.com/-jrnugXdBE_0/X2mWHv-c-qI/AAAAAAAAly4/z4sNfa5IwyQzIzjVfFIkvYaRKbEiCMHHwCLcBGAsYHQ/s320/110.jpg",
+  "length" : "",
+  "title" : "အလှူဒါနပြုကြသူငါ",
+  "genre" : "joker",
+  "video" : "665265300528498"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-6cMNdrrfKOM/X2mWGz4FhLI/AAAAAAAAlys/y0VEFNSFcq4UDdIDo_kn1RiS_lVOsLwRACLcBGAsYHQ/s320/109.jpg",
+  "length" : "",
+  "title" : "ဓားစကားပြောမလား ပန်းစကားပြောမလား",
+  "genre" : "joker",
+  "video" : "665266837195011"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-zQw5MY8YSZM/X2mWG5yGY8I/AAAAAAAAlyo/6MhtXBev4AM3j70QZxApE1UAprfHmJCvACLcBGAsYHQ/s320/108.jpg",
+  "length" : "",
+  "title" : "သူ့အသိုက် ကိုယ့်အသိုက်",
+  "genre" : "joker",
+  "video" : "665270033861358"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-RsXgtMJxNHE/X2mWGg-H6rI/AAAAAAAAlyk/bmuQyZMYce81k0Ltz7kS4cGdmoL6XoyZgCLcBGAsYHQ/s320/107.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား အစီအစဉ်မှာ",
+  "genre" : "joker",
+  "video" : "718863341835360"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-6bIJtIhznNI/X2mWGZ_2MgI/AAAAAAAAlyg/HrxeYwqjVFw1hlzu-nlAwqwnwsRnDUnwwCLcBGAsYHQ/s320/106.jpg",
+  "length" : "",
+  "title" : "အတွေ့အကြုံ/မင်္ဂလာပါ(ချစ်ချော ,ပွမ်ပွမ် ,ဥသြ ,သောကြာ)",
+  "genre" : "joker",
+  "video" : "665825460472482"
+},{
+  "cover" : "https://1.bp.blogspot.com/-2hB9YDZ7KeQ/X2mWGS9mrUI/AAAAAAAAlyc/QEQWEH9kaY8TP6Bc5qeC519jRybfRfuDwCLcBGAsYHQ/s320/105.jpg",
+  "length" : "",
+  "title" : "ဂီတာရူး(ပေါင်မုန့် ,ပေါက်စီ ,ပြည်ချစ် ,သာဦး)",
+  "genre" : "joker",
+  "video" : "665278740527154"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-cwHWKH5y_ys/X2mWGGEBAoI/AAAAAAAAlyY/kc3m2A0fi-MFcU1texA_On73v_xERHBqQCLcBGAsYHQ/s320/104.jpg",
+  "length" : "",
+  "title" : "အဘိုးတို့ အဖေတို့ ကျွန်တော်တို့ခေတ်(ပိုင်ကျော် ,ချစ်ဦး ,အောင်ပ ,အောရိန်း)",
+  "genre" : "joker",
+  "video" : "665275173860844"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-vee0FsP2WDY/X2mWF4xKesI/AAAAAAAAlyQ/CSZ53S-UmQclGJ7lFEB2Y7Zg99k9-weLwCLcBGAsYHQ/s320/103.jpg",
+  "length" : "",
+  "title" : "အပြောကောင်းအဆိုကောင်း(ရွှေကျား ,ရွှေကောင်း ,ဝမ်းဖား ,ကောင်းကြိုက်)",
+  "genre" : "joker",
+  "video" : "665282610526767"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-NkECbQysUAk/X2mWF2mgvoI/AAAAAAAAlyU/WncmNrfDdBwBgARrvHnLRquDV9k5zTZIgCLcBGAsYHQ/s320/102.jpg",
+  "length" : "",
+  "title" : "တောက်မယ့်မီးခဲတရဲရဲ(ဆန်းသစ် ,ဒေါ်လာ ,ပြည်ချစ် ,သာဦး)",
+  "genre" : "joker",
+  "video" : "665794760475552"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-mJn84Kq6uV4/X2mWFv5k3yI/AAAAAAAAlyM/xvv6sLw7zQcxzhCzoEaaY5QoI9Uik9JegCLcBGAsYHQ/s320/101.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "727614740960220"
+},{
+  "cover" : "https://1.bp.blogspot.com/-QmcZsJIDuAQ/X2mWFMWkMzI/AAAAAAAAlyE/2q66huizmYML067hpKKvBJXWlYSBOPU6QCLcBGAsYHQ/s320/100.jpg",
+  "length" : "",
+  "title" : "အတိတ်ကအရိပ်လိုပါ(ပေါင်မုန့် ,ပေါက်စီ ,ဝမ်းတူး ,ငွေတိုး)",
+  "genre" : "joker",
+  "video" : "665796047142090"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-JY2XoT0aKhU/X2mXDqujmlI/AAAAAAAAmGE/jnGUfsqUNiQt0EM6Fl2A0V5l64mBCzmEgCLcBGAsYHQ/s320/99.jpg",
+  "length" : "",
+  "title" : "အမှတ်တရနေ့(ပေါင်မုန့် ,ပေါက်စီ ,ဆန်းသစ် ,ဒေါ်လာ)",
+  "genre" : "joker",
+  "video" : ""
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-tW1EvRb84Z8/X2mXDkVeEOI/AAAAAAAAmF8/Dc3ry_qWMQIfyWPI_EQfrQfWDDIVlhwcACLcBGAsYHQ/s320/98.jpg",
+  "length" : "",
+  "title" : "တန်ဖိုး(ပြည်ချစ် ,သာဦး ,ဝမ်းတူး ,ငွေတိုး)",
+  "genre" : "joker",
+  "video" : "665801233808238"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-8o7ww9mERO4/X2mXDqo0xfI/AAAAAAAAmGA/EY5BEZyV4ogQjFgjmslt5umegk1uI7vagCLcBGAsYHQ/s320/97.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "737993426589018"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-InjJ0hmmAJY/X2mXDA4qhLI/AAAAAAAAmF4/HlJ0Gs_st50iJOG6sfYncQkbjzTAjSvewCLcBGAsYHQ/s320/96.jpg",
+  "length" : "",
+  "title" : "မှန်တာပြောချမ်းသာပါစေ(ငွေတိုး ,ဆည်းဆာ ,ဆယ်ပြား ,ဆန်းဒေး)",
+  "genre" : "joker",
+  "video" : "738001866588174"
+},{
+  "cover" : "https://1.bp.blogspot.com/-ZFSxflANG4U/X2mXCxch3uI/AAAAAAAAmF0/e2DB-U4AbI0JlOOZe8ETFezDZcIVXfYyQCLcBGAsYHQ/s320/95.jpg",
+  "length" : "",
+  "title" : "လူလည်နဲ့လူအ(ရွှေသွေး ,ကောင်းထက် ,ယုန်လေး ,တောက်တဲ့)",
+  "genre" : "joker",
+  "video" : "738004569921237"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-hjd1fclDzFE/X2mXCyx-eQI/AAAAAAAAmFw/bHsaQso1k4wEz7-oINekYmHEeYXfcT4pQCLcBGAsYHQ/s320/94.jpg",
+  "length" : "",
+  "title" : "ပြောမနာ ဆိုမနာ(ယံယံ ,ဒီလေး ,ငွေတိုး ,ဆည်းဆာ)",
+  "genre" : "joker",
+  "video" : "738016646586696"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-RYkxw0rBobw/X2mXCloF0nI/AAAAAAAAmFs/WtXHntEA0EUwo6iaVtzP-v4Qz96Wea_9ACLcBGAsYHQ/s320/93.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "740758222979205"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-I3LyYIk8SxY/X2mXCB0iMGI/AAAAAAAAmFo/sds9EDRY_vY6gzd21w1y5eSHmKQwDTDwQCLcBGAsYHQ/s320/92.jpg",
+  "length" : "",
+  "title" : "ကျောင်းတော်ကရန်စ(မိုးတိမ် ,ဒဲ့ဒိုး ,ဇာနည် ,ငွေခဲ)",
+  "genre" : "joker",
+  "video" : "738029396585421"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-jYFzwEOKgiw/X2mXB5XePVI/AAAAAAAAmFg/0anzk3EOhXs53HFgEazl_J2hccivauPfwCLcBGAsYHQ/s320/91.jpg",
+  "length" : "",
+  "title" : "အရိုးပေါ်အရွက်မဖုံးစေနဲ့(လိပ်မ ,ပိုင်ကျော် ,ရွှေသွေး ,ကောင်းထက်)",
+  "genre" : "joker",
+  "video" : "738089006579460"
+},{
+  "cover" : "https://1.bp.blogspot.com/-C3w4AxLS5WA/X2mXB-JvCjI/AAAAAAAAmFk/yFlzPKYt27YEQYuQKcjRiN8HBwBzqcGsACLcBGAsYHQ/s320/90.jpg",
+  "length" : "",
+  "title" : "စူစကာလက်သစ်(ပေါ်ဦး ,အောင်ချစ် ,ယုန်လေး ,တောက်တဲ့)",
+  "genre" : "joker",
+  "video" : "738113729910321"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-HP--6NodtCY/X2mXBMcv88I/AAAAAAAAmFY/bl8bNsiGMCs69walUVWgsSQFBacs6PjPQCLcBGAsYHQ/s320/89.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား ",
+  "genre" : "joker",
+  "video" : "745694149152279"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-cK0Rl1uBmAc/X2mXBHVCNRI/AAAAAAAAmFU/DxBaXOwgtSQ4HJgKqf_LrEdtxCNjyZJtwCLcBGAsYHQ/s320/88.jpg",
+  "length" : "",
+  "title" : "ရုပ်ရှင်ပိုး(ယံယံ ,ဒီလေး ,ဇာနည် ,ငွေခဲ)",
+  "genre" : "joker",
+  "video" : "738175036570857"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-D2AQvsi2Z0U/X2mXBOstLCI/AAAAAAAAmFQ/WskPLF4wGH8-mq9l_lQWYLKYQO1HAxsFACLcBGAsYHQ/s320/87.jpg",
+  "length" : "",
+  "title" : "ကျွန်တော်ဖိုးဆိုချင်(မိုးတိမ် ,ဒဲ့ဒိုး ,ဆယ်ပြား ,ဆန်းဒေး)",
+  "genre" : "joker",
+  "video" : "738189223236105"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-LseiUqWSvoQ/X2mXAkmPAkI/AAAAAAAAmFM/Q5ikoTlDneASbnGqh51MOlXvbC82emPsgCLcBGAsYHQ/s320/86.jpg",
+  "length" : "",
+  "title" : "တို့တို့တိတိ(ချက်ကြီး ,ဖိုးသဲ ,ရွှေသွေး ,ကောင်းထက်)",
+  "genre" : "joker",
+  "video" : "738212939900400"
+},{
+  "cover" : "https://1.bp.blogspot.com/-o18WF8abrBg/X2mXAdHAcTI/AAAAAAAAmFI/6modncjL91oSlBojDf8riwvgY0Onb0XFwCLcBGAsYHQ/s320/85.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "749296212125406"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-vglMI3o8XyU/X2mXAaHVEEI/AAAAAAAAmFE/1vkVdDK9cQog9U2N_5-6DST9qlbWYAKlwCLcBGAsYHQ/s320/84.jpg",
+  "length" : "",
+  "title" : "တစ်ထွာပြ တစ်လံမြင်",
+  "genre" : "joker",
+  "video" : "748340458887648"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-SoIhZgmIKdo/X2mXAOZyFSI/AAAAAAAAmFA/P2XJEStRg4c8-qSHjJvPzmKXMqJaGdoogCLcBGAsYHQ/s320/83.jpg",
+  "length" : "",
+  "title" : "အနေကောင်းရင် တစ်သက်(ငွေတိုး ,ဆည်းဆာ ,ဇာနည် ,ငွေခဲ)",
+  "genre" : "joker",
+  "video" : "748352488886445"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-NzY5d1OVUKw/X2mW_2AqZ8I/AAAAAAAAmE8/tNDKc0e-a-Q2MNtqPbdkRIWpMx9QG6rSgCLcBGAsYHQ/s320/82.jpg",
+  "length" : "",
+  "title" : "အတိတ်တဘောင် နိမိတ်ဆောင်(မိုးတိမ် ,ဒဲ့ဒိုး ,ယံယံ ,ဒီလေး)",
+  "genre" : "joker",
+  "video" : "748364542218573"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-YvSZYomk4a4/X2mW_70_17I/AAAAAAAAmE4/5laa1vDx5iMLEcxa9c27qw9Z9Kj9n_GrwCLcBGAsYHQ/s320/81.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "753220308399663"
+},{
+  "cover" : "https://1.bp.blogspot.com/-yN2nTJfrhmw/X2mW_kTNM_I/AAAAAAAAmE0/JFG2-6l4KDUpVQwiZVMDkOk1qpZXXhHBQCLcBGAsYHQ/s320/80.jpg",
+  "length" : "",
+  "title" : "စိတ်ထောင်းလို့ကိုယ်ကြေ(လိပ်မ ,ပိုင်ကျော် ,ယုန်လေး ,တောက်တဲ့)",
+  "genre" : "joker",
+  "video" : "748370392217988"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-QuSh6IGRXyg/X2mW-0fn1QI/AAAAAAAAmEs/R0i9cnQdYJgyRqx3z1ihTFGLQdv_00PvQCLcBGAsYHQ/s320/79.jpg",
+  "length" : "",
+  "title" : "အမေမှာ မှာတဲ့ အတိုင်း(ဆယ်ပြား ,ဆန်းဒေး ,ဇာနည် ,ငွေခဲ)",
+  "genre" : "joker",
+  "video" : "748389222216105"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/--CXewqvMGZo/X2mW_OiGWEI/AAAAAAAAmEo/uik6cjiQdG4vHQPhV5RkDDz7qtzqB2vtACLcBGAsYHQ/s320/78.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား ",
+  "genre" : "joker",
+  "video" : "757095248012169"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-mrV1BlVhRHg/X2mW-fmDfKI/AAAAAAAAmEk/0b0JrZeVSDwjTEJUDnW6kuqgpaKp3Z9RgCLcBGAsYHQ/s320/77.jpg",
+  "length" : "",
+  "title" : "တောင်စဉ်ရေမရ(ရွှေသွေး ,ကောင်းထက် ,ပေါ်ဦး ,အောင်ချစ်)",
+  "genre" : "joker",
+  "video" : "760349531020074"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ErHAwKFkX9M/X2mW9yKZqWI/AAAAAAAAmEg/L-Pe-JopBeEioX9UScmyiCCbWxWOg3CIgCLcBGAsYHQ/s320/76.jpg",
+  "length" : "",
+  "title" : "ကဖျက်ယဖျက်(လိပ်မ ,ပိုင်ကျော် ,ချက်ကြီး ,ဖိုးသဲ)",
+  "genre" : "joker",
+  "video" : "760358234352537"
+},{
+  "cover" : "https://1.bp.blogspot.com/-7MPkNIz71r8/X2mW9Cc7OwI/AAAAAAAAmEc/paRpK5hhiGAJ04RgiCVevYPHiAxHShQhQCLcBGAsYHQ/s320/75.jpg",
+  "length" : "",
+  "title" : "ကိုယ်တွေ့ကြုံမှယုံ(ဆယ်ပြား ,ဆန်းဒေး ,ယံယံ ,ဒီလေး)",
+  "genre" : "joker",
+  "video" : "760366324351728"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-hx6x5VNuq_o/X2mW84AWUgI/AAAAAAAAmEY/dFjc1j0OtoU9KHvySrbOfNxPTKinWMtMgCLcBGAsYHQ/s320/74.jpg",
+  "length" : "",
+  "title" : "အကြိုဗိုလ်လုပွဲစဉ် ",
+  "genre" : "joker",
+  "video" : "765834583804902"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-6a_oqm-eqS4/X2mW819kiwI/AAAAAAAAmEU/lFkeXyh5on8R8XhLb9P9i_UlyJsCi7ShgCLcBGAsYHQ/s320/73.jpg",
+  "length" : "",
+  "title" : "တွေ့ဆုံကြုံကွဲ(ယုန်လေး ,တောက်တဲ့ ,ချက်ကြီး ,ဖိုးသဲ)",
+  "genre" : "joker",
+  "video" : "765838367137857"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-vrz6mmKNFSw/X2mW85BsArI/AAAAAAAAmEQ/bIm53R2K1x4NesAt9ldhPijgatx-uJiAgCLcBGAsYHQ/s320/72.jpg",
+  "length" : "",
+  "title" : "ခရေစေ့တွင်းကျ(မိုးတိမ် ,ဒဲ့ဒိုး ,ချက်ကြီး ,ဖိုးသဲ)",
+  "genre" : "joker",
+  "video" : "767598970295130"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-JLBrYFa4254/X2mW8afMhaI/AAAAAAAAmEM/wBp5UQCb-U8_e2AL8LaxYOKvBD4BiyrlgCLcBGAsYHQ/s320/71.jpg",
+  "length" : "",
+  "title" : "မိုးကျရွှေကိုယ်(ပေါ်ဦး ,အောင်ချစ် ,ငွေတိုး ,ဆည်းဆာ)",
+  "genre" : "joker",
+  "video" : "767603350294692"
+},{
+  "cover" : "https://1.bp.blogspot.com/-N_bZwIg--6M/X2mW8VNDyUI/AAAAAAAAmEE/LSMaiG3cx3ECh7tAyS5LEj6xjBRzfEHCgCLcBGAsYHQ/s320/70.jpg",
+  "length" : "",
+  "title" : "အမွေစား အမွေခံ(ချက်ကြီး ,ဖိုးသဲ ,ငွေတိုး ,ဆည်းဆာ)",
+  "genre" : "joker",
+  "video" : "767617073626653"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-y-Ko9YFcidk/X2mW8MDX2DI/AAAAAAAAmEA/tVG7zQt9a3YpFzJprcjka-O1FyO00cRbQCLcBGAsYHQ/s320/69.jpg",
+  "length" : "",
+  "title" : "သတိနဲ့ပညာ(ပေါ်ဦး ,အောင်ချစ် ,မိုးတိမ် ,ဒဲ့ဒိုး)",
+  "genre" : "joker",
+  "video" : "767628373625523"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-m2aaU0jX2FA/X2mW7rys8PI/AAAAAAAAmD8/6qvTZ638G_EIWW9W_7XjJu9PK18B2h55QCLcBGAsYHQ/s320/68.jpg",
+  "length" : "",
+  "title" : "အကြိုဗိုလ်လုပွဲစဉ် ဒုတိယပွဲမှာ",
+  "genre" : "joker",
+  "video" : "772776783110682"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-3xY32d_k_OY/X2mW7vtvK2I/AAAAAAAAmD4/qDwlwdJSzJg6_74i-qSWSkLmOPlAIO8lACLcBGAsYHQ/s320/67.jpg",
+  "length" : "",
+  "title" : "တတိယနေရာလုပွဲမှာ",
+  "genre" : "joker",
+  "video" : "775638172824543"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ep4qtRdJs5A/X2mW7kdrFMI/AAAAAAAAmD0/DbrkdIcF1UMtHr3I4P7AyR3nbICHgzW7QCLcBGAsYHQ/s320/66.jpg",
+  "length" : "",
+  "title" : "ကလေးအတွေး(မိုးပွင့် ,ကဲကဲ ,ချစ်ဦး ,ပြုံးချို)",
+  "genre" : "joker",
+  "video" : "775451692843191"
+},{
+  "cover" : "https://1.bp.blogspot.com/-NaOcWKV8WOA/X2mW7IEJ4EI/AAAAAAAAmDw/VP8mDfucymEG6VxoM7q_g9aNm8u-p9pdACLcBGAsYHQ/s320/65.jpg",
+  "length" : "",
+  "title" : "တွက်ကပ်ကြသူများ(ဆနး်သစ် ,ဒေါ်လာ ,အဂီး ,ပိုင်ပိုင်)",
+  "genre" : "joker",
+  "video" : "775470646174629"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/--_-FKNtootQ/X2mW69M9QyI/AAAAAAAAmDs/83C3cZGW8UQc1SUswt0Ff9eYyI0lVJTpwCLcBGAsYHQ/s320/64.jpg",
+  "length" : "",
+  "title" : "အတွေးတစ်မျိုး အလုပ်တစ်မျိုး(ပေါင်မုန့် ,ပေါက်စီ ,ရွှေကျား ,ရွှေကောင်း)",
+  "genre" : "joker",
+  "video" : "775481442840216"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-Txnxy8mLsBc/X2mW65Jz9tI/AAAAAAAAmDo/DILzheRu684DKICRhAntArEc-wLSDaPbACLcBGAsYHQ/s320/63.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား ဗိုလ်လုပွဲ",
+  "genre" : "joker",
+  "video" : "783212185400475"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-C65HtJUcfqA/X2mW6r3kz8I/AAAAAAAAmDk/qGwAEDZ6ZCMtJrvAmbILdf0GHF0TH5guQCLcBGAsYHQ/s320/62.jpg",
+  "length" : "",
+  "title" : "သူတင်ကိုယ်တင်(ပြည်ချစ် ,အရှည်ကြီး ,ဝမ်းဒိုး ,ဟားလေး)",
+  "genre" : "joker",
+  "video" : "775515886170105"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ZLT9qU112ao/X2mW6oCjVvI/AAAAAAAAmDg/w0L-NBTqckQZREeVWPg4_04mTrwkBnpSQCLcBGAsYHQ/s320/61.jpg",
+  "length" : "",
+  "title" : "ပန်းလားပျားလား(ကံထူး ,သာဦး ,ရွှေကျား ,ရွှေကောင်း)",
+  "genre" : "joker",
+  "video" : "775550239500003"
+},{
+  "cover" : "https://1.bp.blogspot.com/-Y6So_WR-WP4/X2mW6TCU7mI/AAAAAAAAmDc/JNq0dgjYSkoOJxfYnAtO51Uxi-P1HCuxwCLcBGAsYHQ/s320/60.jpg",
+  "length" : "",
+  "title" : "ဆင်းရဲခြင်း ချမ်းသားခြင်း(ပေါင်မုန့် ,ပေါက်စီ ,ဆန်းသစ် ,ဒေါ်လာ)",
+  "genre" : "joker",
+  "video" : "775563652831995"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/--foW806hXvc/X2mW6P_kDnI/AAAAAAAAmDU/6A1bpx0GyrID15aNCntTCsiB9GYJp1wvQCLcBGAsYHQ/s320/59.jpg",
+  "length" : "",
+  "title" : "ဂိုက်ပေးကြမ်းသူ(,မိုးပွင့် ,ကဲကဲ ,ဝမ်းဒိုး ,ဟားလေး)",
+  "genre" : "joker",
+  "video" : "775583466163347"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-m2ew0JZu6K0/X2mW5nzmibI/AAAAAAAAmDQ/cdkoYCRkW08Qo8N2zigyWNiYaGYvHhYjACLcBGAsYHQ/s320/58.jpg",
+  "length" : "",
+  "title" : "ကိုယ့်ထူးကိုယ်ချွန်(ပြည်ချစ် ,အရှည်ကြီး ,နိုးတူး ,ကော်ဖီ)",
+  "genre" : "joker",
+  "video" : "776103732777987"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-cVhof9oj27s/X2mW5QOr3uI/AAAAAAAAmDM/jovoWaVQ0WckV71Ebexbo9TaIyfg5dN4ACLcBGAsYHQ/s320/57.jpg",
+  "length" : "",
+  "title" : "တိုလီမိုလီ(ချစ်ဦး ,ပြုံးချို ,ဝမ်းဒိုး ,ဟားလေး)",
+  "genre" : "joker",
+  "video" : "776123369442690"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-S6p4Dpovlk0/X2mW5RXEAhI/AAAAAAAAmDI/nPpjEMT_2wosskAqznWzZa_qIDF9SxUSACLcBGAsYHQ/s320/56.jpg",
+  "length" : "",
+  "title" : "ကပြောင်းကပြန်(မိုးပွင့် ,ကဲကဲ ,နိုးတူး ,ကော်ဖီ)",
+  "genre" : "joker",
+  "video" : "779794279075599"
+},{
+  "cover" : "https://1.bp.blogspot.com/--vYFzvtwXWE/X2mW5Yg_mRI/AAAAAAAAmDE/TtK7VzjUnp4qxYoaKhoSyA0ubLrnFwtpQCLcBGAsYHQ/s320/55.jpg",
+  "length" : "",
+  "title" : "ဘယ်သူမပြုမိမိမှု(ပေါင်မုန့် ,ပေါက်စီ ,အဂီး ,ပိုင်ပိုင်)",
+  "genre" : "joker",
+  "video" : "779807242407636"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-aAmpG9hmrrw/X2mW5LQmedI/AAAAAAAAmDA/OsTop4LPOQsrQYJ8QfCk_G0HGwkqRMd8gCLcBGAsYHQ/s320/53.jpg",
+  "length" : "",
+  "title" : "သွားရေးလာရေး(ဝမ်းဒိုး ,ဟားလေး ,နိုးတူး ,ကော်ဖီ)",
+  "genre" : "joker",
+  "video" : "780070205714673"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-5kcF6HchoHY/X2mW43MkE6I/AAAAAAAAmC8/l_EzrtyDGCUvRCL1HEdhkr2qNe_V_Gh0wCLcBGAsYHQ/s320/52.jpg",
+  "length" : "",
+  "title" : "ကံကိုယုံလို့ ဆူးပုံနင်းကြသူများ(ကံထူး ,သာဦး ,အဂီး ,ပိုင်ပိုင်)",
+  "genre" : "joker",
+  "video" : "776111272777233"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-vTlRt9V5FbQ/X2mW47qFC8I/AAAAAAAAmC4/B_lF37xq0VIZRU1Ldqij4NuiVW87uBB-wCLcBGAsYHQ/s320/51.jpg",
+  "length" : "",
+  "title" : " လူရွှင်တော်စတားပြိုင်ပွဲ",
+  "genre" : "joker",
+  "video" : "807835699604790"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-u6F4VkswKzo/X2mW4jrX4TI/AAAAAAAAmC0/y8Cz2F3ge54x0AmAeSyAfSVRP2U099W-ACLcBGAsYHQ/s320/50.jpg",
+  "length" : "",
+  "title" : "ဘယ်ခြောက်ကာညာလှမ်း(ဆန်းသစ် ,ဒေါ်လာ ,ကံထူး ,သာဦး)",
+  "genre" : "joker",
+  "video" : "780081002380260"
+},{
+  "cover" : "https://1.bp.blogspot.com/-Tv5fEVrgv1o/X2mW4LgkDSI/AAAAAAAAmCs/k4e9vQmYxWoX8EOMzjHOR6ycAN_b1iBMQCLcBGAsYHQ/s320/49.jpg",
+  "length" : "",
+  "title" : "ဘယ်ခြောက်ကာညာလှမ်း(ဆန်းသစ် ,ဒေါ်လာ ,ကံထူး ,သာဦး)",
+  "genre" : "joker",
+  "video" : "780081002380260"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-s7QvEAVyr8M/X2mW4LgjRWI/AAAAAAAAmCo/87WtIoPdZMEHe8_ozdl8FbxFBGDDXhJTQCLcBGAsYHQ/s320/48.jpg",
+  "length" : "",
+  "title" : "စာဖတ်မလား ဖုန်းပွတ်မလား(ချစ်ဦး ,ပြုံးချို ,နိုးတူး ,ကော်ဖီ)",
+  "genre" : "joker",
+  "video" : "780119692376391"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-bOgjTevEJCs/X2mW4I8sENI/AAAAAAAAmCk/2__S5H1u0CMqlmcsViRnPScoMdD45NuawCLcBGAsYHQ/s320/47.jpg",
+  "length" : "",
+  "title" : "ရွက်ပုန်းသီး(ပြည်ချစ် ,အရှည်ကြီး ,ချစ်ဦး ,ပြုံးချို)",
+  "genre" : "joker",
+  "video" : "779860629068964"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-P5WdDtI2s0Y/X2mW3pBPxBI/AAAAAAAAmCc/dbVO1RovD6EFPXRcWYQvZVUBXE8m5kc5wCLcBGAsYHQ/s320/46.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတားပြိုင်ပွဲ",
+  "genre" : "joker",
+  "video" : "812223632499330"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-K9OJ5s5RN0M/X2mW22_XnnI/AAAAAAAAmCg/9u2lv7-uspwCu7C8PYn43Jf62wSMRclogCLcBGAsYHQ/s320/45.jpg",
+  "length" : "",
+  "title" : "တစ်ဖက်စွန်း(ကံထူး ,သာဦး ,ပေါင်မုန့် ,ပေါက်စီ)",
+  "genre" : "joker",
+  "video" : "783275622060798"
+},{
+  "cover" : "https://1.bp.blogspot.com/-wwcxwWZ3D2w/X2mW2wTjIAI/AAAAAAAAmCY/2-KGlL1YYG8zpnZSsSwMywF_XoYQFpqmQCLcBGAsYHQ/s320/44.jpg",
+  "length" : "",
+  "title" : "ငယ်မူငယ်သွေး(ပြည်ချစ် ,အရှည်ကြီး ,မိုးပွင့် ,ကဲကဲ)",
+  "genre" : "joker",
+  "video" : "783284342059926"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-A7gpLtRyXsY/X2mW22KTs0I/AAAAAAAAmCU/oiq84VWQ87oVVSLlDjvR8aYnf9UBvdxsgCLcBGAsYHQ/s320/43.jpg",
+  "length" : "",
+  "title" : "တွေ့တုန်းကြုံတုန်း(ရွှေကျား ,ရွှေကောင်း ,ဆန်းသစ် ,ဒေါ်လာ)",
+  "genre" : "joker",
+  "video" : "783306905391003"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-39YD9XQ-SrQ/X2mW2EPZrjI/AAAAAAAAmCQ/yx_X8v_QLH0VI6DhYsF9Wh1WbG2UH68KQCLcBGAsYHQ/s320/42.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတားပြိုင်ပွဲ",
+  "genre" : "joker",
+  "video" : "822841214770905"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-NnTLOk1qAUM/X2mW2FrYDRI/AAAAAAAAmCM/LKXGAlSCVSspbGkLgrWs_GaT6Bmn7bjfgCLcBGAsYHQ/s320/41.jpg",
+  "length" : "",
+  "title" : "ဆွေပြမျိုးပြ(ရွှေကျား ,ရွှေကောင်း ,အဂီး ,ပိုင်ပိုင်)",
+  "genre" : "joker",
+  "video" : "783292798725747"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-bUddFZh9yqE/X2mW2Ethn-I/AAAAAAAAmCI/uQoMuuov4pkQRrb0vucdnPxC2sW6bof_QCLcBGAsYHQ/s320/40.jpg",
+  "length" : "",
+  "title" : "အပြောအဆို",
+  "genre" : "joker",
+  "video" : "784486518606375"
+},{
+  "cover" : "https://1.bp.blogspot.com/-aulxJlFvuBw/X2mW1irJQxI/AAAAAAAAmCA/bFI7V3TQgRYEzXu1DQDYx6ewiH210wLmwCLcBGAsYHQ/s320/39.jpg",
+  "length" : "",
+  "title" : "ကြောက်စရာကောင်းလိုက်ပုံက",
+  "genre" : "joker",
+  "video" : "784559615265732"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-uLjA3DPcrlw/X2mW1sEC-YI/AAAAAAAAmB8/2CFFRCHodnsAUDup76stZ_iQ3FVPuJTbgCLcBGAsYHQ/s320/38.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "829541460767547"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-Mhk3u2IF2kQ/X2mW1Izc11I/AAAAAAAAmB4/rUssyawrSVw7iEIJe_8UD0TPC-q7Z8gvACLcBGAsYHQ/s320/37.jpg",
+  "length" : "",
+  "title" : "ကိုယ့်အတွေးနဲ့ကိုယ်(ဆန်းသစ် ,ဒေါ်လာ ,မိုးပွင့် ,ကဲကဲ)",
+  "genre" : "joker",
+  "video" : "784592111929149"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-3Z16RLD9Yr8/X2mW0_02FEI/AAAAAAAAmB0/hS-Z8OSrO_46YmVvo6Zhjkf-JXuJJpCLQCLcBGAsYHQ/s320/36.jpg",
+  "length" : "",
+  "title" : "ရာဇဝင်ထဲကလူ(ပြည်ချစ် ,အရှည်ကြီး ,ကံထူး ,သာဦး)",
+  "genre" : "joker",
+  "video" : "786828211705539"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-GnQystPBhPc/X2mW0wdCWkI/AAAAAAAAmBw/EF9PBP2UQI4ICGU4Bjozz6xl4UizHOtvQCLcBGAsYHQ/s320/35.jpg",
+  "length" : "",
+  "title" : "ပွဲကြီးပွဲကောင်း(,ပေါ်ဦး ,အောင်ချစ် ,ဝင်းအောင် ,စိုးမိုးအောင်)",
+  "genre" : "joker",
+  "video" : "787566858298341"
+},{
+  "cover" : "https://1.bp.blogspot.com/-d-UCoMLzjf8/X2mW0s3uRKI/AAAAAAAAmBs/LN6AjvSiH-waQZerYloMNy0G3Gba-j49gCLcBGAsYHQ/s320/34.jpg",
+  "length" : "",
+  "title" : " လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "836973760024317"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-NO5JKJOMPk4/X2mW0aivunI/AAAAAAAAmBo/Rtx3VlVlA48nXvgV4GVYlnw9o5xMf_IeQCLcBGAsYHQ/s320/33.jpg",
+  "length" : "",
+  "title" : "နားလည်ပေးကြပါ(စူပါလင်း ,သွက်လက် ,ဆယ်ပြား ,ဆန်းဒေး)",
+  "genre" : "joker",
+  "video" : "787573818297645"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-m1VVTRA0WKA/X2mWzc3Yl0I/AAAAAAAAmBU/mKkYmf-hQdwRizhgtl7_YFZrbPEUi0W5gCLcBGAsYHQ/s320/32.jpg",
+  "length" : "",
+  "title" : "ကိုယ့်သီချင်း သူ့သီချင်း",
+  "genre" : "joker",
+  "video" : "789775478077479"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-AXMZBidzr3I/X2mWxilGPnI/AAAAAAAAmAo/y5AwUOFpeD0suZTrHH2nhgV7DCimWmRhgCLcBGAsYHQ/s320/31.jpg",
+  "length" : "",
+  "title" : "ခံစားတတ်ရင် ပျော်စရာ(စိစိ ,ချစ်စု ,ဇောင်း ,နိုင်မိုး)",
+  "genre" : "joker",
+  "video" : "789763381412022"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-DBuD1CW36U4/X2mWwKIV8wI/AAAAAAAAl_8/WmNb3Myx_IoO5P3GUUeO72AyPBlclBe6ACLcBGAsYHQ/s320/30.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "1962646663756480"
+},{
+  "cover" : "https://1.bp.blogspot.com/-EGxmaoi-hH4/X2mWuOpybhI/AAAAAAAAl_M/QW7JjOMkwsc3cnX3TG0huWAdnqI6QIARwCLcBGAsYHQ/s320/29.jpg",
+  "length" : "",
+  "title" : "သတင်းနဲ့အတင်း(စူပါလင်း ,သွက်လက် ,ရွှေသွေး ,တော်ဝင်)",
+  "genre" : "joker",
+  "video" : "789795621408798"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-3vXMKowa8Wc/X2mWsPQoCRI/AAAAAAAAl-g/-Z7ILSCs_Qs5CVA64Vnq1mX9f2rrpXkdwCLcBGAsYHQ/s320/28.jpg",
+  "length" : "",
+  "title" : "တာဝန်ကိုယ်စီရှိကြသည်(စိစိ ,ချစ်စု ,ပေါ်ဦး ,အောင်ချစ်)",
+  "genre" : "joker",
+  "video" : "789806514741042"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-VAfC74xaBwo/X2mWqbkA7yI/AAAAAAAAl90/rsly74TiVLsrXkVeue_hZx1EBhp4CgbRwCLcBGAsYHQ/s320/27.jpg",
+  "length" : "",
+  "title" : "ကြုံသလေဘုံဗွေ(ချိုတူး ,သာလောင် ,ရွှေသွေး ,တော်ဝင်)",
+  "genre" : "joker",
+  "video" : "789823778072649"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-A2myEmKW-ZA/X2mWoFYHtgI/AAAAAAAAl9I/kDZ0rvUP32Q6R2GFtesBePJjVgqz4Q84QCLcBGAsYHQ/s320/26.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား",
+  "genre" : "joker",
+  "video" : "368527923684313"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-BrAes3YESPU/X2mWmW6E6TI/AAAAAAAAl8c/ULgeazRQUWUDLuUs9B_ezjEHOgHu8Qh1gCLcBGAsYHQ/s320/25.jpg",
+  "length" : "",
+  "title" : "ဇမ္ဗူဒိပ်နိမိတ်(မိုးတိမ် ,ဒဲ့ဒိုး ,ဇောင်း ,နိုင်မိုး)",
+  "genre" : "joker",
+  "video" : "795507817504245"
+},{
+  "cover" : "https://1.bp.blogspot.com/-In_WpnFrTBA/X2mWj4YBkxI/AAAAAAAAl70/-1DJ50JK5ysx16H5aMaddcGaPdJG4xnegCLcBGAsYHQ/s320/24.jpg",
+  "length" : "",
+  "title" : "ငကန်းသေ ငစွေပေါ်(စိစိ ,ချစ်စု ,ဝင်းအောင် ,စိုးမိုးအောင်)",
+  "genre" : "joker",
+  "video" : "795514917503535"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-6KdKvkd6VQM/X2mWhHr8V_I/AAAAAAAAl7E/iXmxHKTCXXQ37fowLSBRKl70BhluEGWjACLcBGAsYHQ/s320/23.jpg",
+  "length" : "",
+  "title" : "မျက်စိတစ်မှိတ် လျှပ်တစ်ပြက်(ချိုတူး ,သာလောင် ,စူပါလင်း ,သွက်လက်)",
+  "genre" : "joker",
+  "video" : "795524020835958"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-qX308JnbRis/X2mWfn8jI0I/AAAAAAAAl6Y/9bwh_dC8ihw4gA0I19nisJncVB8d0eLBACLcBGAsYHQ/s320/22.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတားပြိုင်ပွဲ",
+  "genre" : "joker",
+  "video" : "247454005956775"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-_MNppyQmsrw/X2mWdgApkXI/AAAAAAAAl5s/MmHZKZ5Yi3433kLhz8uOJfO-nTPgZ5uZgCLcBGAsYHQ/s320/21.jpg",
+  "length" : "",
+  "title" : "ကြုံဖူးပေါင် ဂုဏ်ထူးဆောင်(ဒေါ်လာ ,မင်းနောင် ,ဆယ်ပြား ,ဆန်းဒေး)",
+  "genre" : "joker",
+  "video" : "795545434167150"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-yU-C9teRnQA/X2mWbLcvaSI/AAAAAAAAl5A/quScoSmJ03o80xKEFdrITg48flktUulrwCLcBGAsYHQ/s320/20.jpg",
+  "length" : "",
+  "title" : "ဆုတောင်းတိုင်းသာပြည့်မယ်ဆိုရင်(ဇောင်း ,နိုင်မိုး ,ပေါ်ဦး ,အောင်ချစ်)",
+  "genre" : "joker",
+  "video" : "795554607499566"
+},{
+  "cover" : "https://1.bp.blogspot.com/-v16kFjiUrhM/X2mWYClmZKI/AAAAAAAAl4Q/9jYA4YowzswKPsehcyvoLkhYNpt4w4wRQCLcBGAsYHQ/s320/19.jpg",
+  "length" : "",
+  "title" : "အောင်သေအောင်သား(မိုးတိမ် ,ဒဲ့ဒိုး ,စိစိ ,ချစ်စု)",
+  "genre" : "joker",
+  "video" : "795570774164616"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-M60TmNvEapM/X2mWVqL-e5I/AAAAAAAAl3k/wnu-NJMq050Awz3YFg3ldDYTe0thHWl2wCLcBGAsYHQ/s320/18.jpg",
+  "length" : "",
+  "title" : "မနေတတ် မထိုင်တတ်(ဒေါ်လာ ,မင်းနောင် ,စူပါလင်း ,သွက်လက်)",
+  "genre" : "joker",
+  "video" : "798356923886001"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-OfzkijSx8n0/X2mWTULC4qI/AAAAAAAAl24/BouqED9W3N0kmYeKSB-a7xc87yp16geFgCLcBGAsYHQ/s320/17.jpg",
+  "length" : "",
+  "title" : " လူရွှင်တော်စတားပြိုင်ပွဲ",
+  "genre" : "joker",
+  "video" : "2069152663400584"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-5Mxdsx9AKYQ/X2mWRFebqUI/AAAAAAAAl2M/AGpo3QjU3hMpz-uCvFf9P4YbDWRYTJYKgCLcBGAsYHQ/s320/16.jpg",
+  "length" : "",
+  "title" : "နေရာတိုင်းမှာ သူ့မျက်နှာ(ဆယ်ပြား ,ဆန်းဒေး ,ရွှေသွေး ,တော်ဝင်)",
+  "genre" : "joker",
+  "video" : "798365603885133"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-_pHPHvLvV2k/X2mWPUfOOfI/AAAAAAAAl1g/A7tflbPcB_kVMEVfcsUNlWeInD3jeSIFwCLcBGAsYHQ/s320/15.jpg",
+  "length" : "",
+  "title" : "သူ့လူကိုယ့်ဘက်သား",
+  "genre" : "joker",
+  "video" : "798377163883977"
+},{
+  "cover" : "https://1.bp.blogspot.com/-MKC_p5fTc3w/X2mWNvzGQSI/AAAAAAAAl00/92imYFCmeM4KBS4jUzYPwTgJYIjgNHaLACLcBGAsYHQ/s320/14.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတားပြိုင်ပွဲ",
+  "genre" : "joker",
+  "video" : "1710557052407274"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-0CTZIOc8isg/X2mWL96XxBI/AAAAAAAAl0I/vbbNhDoJn7EVe-9boLWWUBEu-E_mdf_gACLcBGAsYHQ/s320/13.jpg",
+  "length" : "",
+  "title" : "ရူးချင်ယောင်ဆောင်တဲ့သူ ",
+  "genre" : "joker",
+  "video" : "271197436858922"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-dEHzpmQSfUY/X2mWJ6ClaiI/AAAAAAAAlzc/Nv3wErwTy-MMW1wRiPJ-62v_MQXDmvqDwCLcBGAsYHQ/s320/12.jpg",
+  "length" : "",
+  "title" : "ငယ်ငယ်တုန်းကသူငယ်ချင်း(ချိုတူး ,သာလောင် ,ဆယ်ပြား ,ဆန်းဒေး)",
+  "genre" : "joker",
+  "video" : "798409997214027"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-6hR5wF_bmx0/X2mWHYD8DAI/AAAAAAAAlyw/xIfUaYHAPTImNEjsiJYvQaebYtXSeOniACLcBGAsYHQ/s320/11.jpg",
+  "length" : "",
+  "title" : "ပွဲပြီးမီးသေ(ဒေါ်လာ ,မင်းနောင် ,ရွှေသွေး ,တော်ဝင်)",
+  "genre" : "joker",
+  "video" : "798419550546405"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-5hk5HLMQvpk/X2mWFF-jfOI/AAAAAAAAlyI/doEFsheSiakHVfRHKrojf9ejtDaSOrtVwCLcBGAsYHQ/s320/10.jpg",
+  "length" : "",
+  "title" : "ကာလဝိပါက်နောက်ပိုးတက်",
+  "genre" : "joker",
+  "video" : "817030288685331"
+},{
+  "cover" : "https://1.bp.blogspot.com/-vNes4P0-_jc/X2mXBvxzw9I/AAAAAAAAmFc/585yHGG_vE8Jnm6QEpUiwyGXyzWFDxlJACLcBGAsYHQ/s320/9.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတားပြိုင်ပွဲ",
+  "genre" : "joker",
+  "video" : "2118501388467116"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-pTTqnONKeKE/X2mW_Lp2QjI/AAAAAAAAmEw/3lHt7KTXjoAmOOuOF89EDuxice4-7rosACLcBGAsYHQ/s320/8.jpg",
+  "length" : "",
+  "title" : "ထိထိရောက်ရောက်(ဒေါ်လာ ,မင်းနောင် ,ချိုတူး ,သာလောင်)",
+  "genre" : "joker",
+  "video" : "817075138680846"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-hPP_xHvUbrE/X2mW8fjwc1I/AAAAAAAAmEI/EVtuOKPYf2wGaja97QXq6wf8wGiaUZIYwCLcBGAsYHQ/s320/7.jpg",
+  "length" : "",
+  "title" : "ကံမလို့ ခြံဝရောက်(ချိုတူး ,သာလောင် ,ပေါ်ဦး ,အောင်ချစ်)",
+  "genre" : "joker",
+  "video" : "817113172010376"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-_Gcb4vN4628/X2mW6KI_joI/AAAAAAAAmDY/i17Ct1jTWCIMEidOutpoutH5pl-evkMNACLcBGAsYHQ/s320/6.jpg",
+  "length" : "",
+  "title" : "ကျည်ပွေ့အတက်ပေါက်(ရွှေသွေး ,တော်ဝင် ,မိုးတိမ် ,ဒဲ့ဒိုး)",
+  "genre" : "joker",
+  "video" : "817124415342585"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-oqLBZK9BmBg/X2mW4p4GSsI/AAAAAAAAmCw/HdW97ZrKjQsW8f2kei3zOzZ1u-GmFcR_ACLcBGAsYHQ/s320/5.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတား ပြိုင်ပွဲ",
+  "genre" : "joker",
+  "video" : "2202797929961678"
+},{
+  "cover" : "https://1.bp.blogspot.com/-w98eeRQU7a0/X2mW1oRTMhI/AAAAAAAAmCE/pl33LgZXbIEchoaJF8wnmmd_CGJubtCrACLcBGAsYHQ/s320/4.jpg",
+  "length" : "",
+  "title" : "ဘယ်သူမပြုမိမိမှု(ရွှေသွေး ,တော်ဝင် ,ချိုတူး ,သာလောင်)",
+  "genre" : "joker",
+  "video" : "821629821558711"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-ufWYPp8U-uI/X2mWvneFpLI/AAAAAAAAl_4/xKkWVZTq1scZMPE5AX6RAdPbsYJXYCJpgCLcBGAsYHQ/s320/3.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတားပြိုင်ပွဲ",
+  "genre" : "joker",
+  "video" : "733278873706375"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-wzN3dXVng-8/X2mWaX2FPEI/AAAAAAAAl48/qagCih04MeYuvke69roxzIFshhCK9uAswCLcBGAsYHQ/s320/2.jpg",
+  "length" : "",
+  "title" : "လူရွှင်တော်စတားပြိုင်ပွဲ",
+  "genre" : "joker",
+  "video" : "246591176013505"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-AOYGRCh2l6c/X2mWFFLHrfI/AAAAAAAAlyA/qWObEYgxRM4T-m1DwSbOzywI0EdU5MzfQCLcBGAsYHQ/s320/1.jpg",
+  "length" : "",
+  "title" : "အတွေးမှား အရေးမှား",
+  "genre" : "joker",
+  "video" : "183299259223736"
+},
+{
+  "cover" : "https://1.bp.blogspot.com/-g7wCQQnHVjE/Xp_2BiLh8XI/AAAAAAAAE8o/va41BK-yNq03btGX4NA9djiFHn8vvaEqQCLcBGAsYHQ/s320/001.jpg",
+  "length" : "36:49",
+  "title" : "လုပ်ဇာတ်တွေ (ပြည်ချစ်,သာဦး,ရှိုင်းလေး,ပေသီး)",
+  "genre" : "joker",
+  "video" : "700505697016898"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-fUr2NhTVDyQ/Xp_2CR6vq9I/AAAAAAAAE8w/DVSFxmzQLhobjZqZC484DFgXbjRHP_MCACLcBGAsYHQ/s320/002.jpg",
+  "length" : "36:26",
+  "video" : "236256280616419",
+  "genre" : "joker",
+  "title" : "ခေတ်ကြီးကိုက (မိုးပွင့် ,ပေါက်ကျော် ,လူလှ ,သားလေး)"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-TCnjmK5cLBo/Xp_2B87yjzI/AAAAAAAAE8s/mPRM4WqqTr46XOSgvX2bkWINCHyqm9XmgCLcBGAsYHQ/s320/003.jpg",
+  "length" : "36:09",
+  "title" : "ဇောက်ထိုးမိုးမျှော် (ဆန်းသစ် ,ဒေါ်လာ ,တိမ်ဝါ ,ကျော်ထက်)",
+  "genre" : "joker",
+  "video" : "368146484004793"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-GibvuVRl1Bw/Xp_2CvB16aI/AAAAAAAAE80/NSkvfpcQCZYqnqPrNAJvlVn4mPG8ECs0gCLcBGAsYHQ/s320/004.jpg",
+  "length" : "36:31",
+  "title" : "ရူးချင်ယောင်ဆောင်တဲ့သူ (ဆနး်သစ် ,ဒါ်လာ ,ပေါင်မုန့် ,အောရိန်း)",
+  "genre" : "joker",
+  "video" : "465032807360914"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-5Rroq5456rg/Xp_2EdSd1nI/AAAAAAAAE9I/45kMfKum2psq7Ljc75-5z5CikguZPnX7ACLcBGAsYHQ/s320/009.jpg",
+  "length" : "09:21",
+  "title" : "ခေတ်ကြီးကိုက (လူလှ,သားလေး)",
+  "genre" : "joker",
+  "video" : "275475069816007"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-HCC6tVN6AGw/Xp_2EhROjJI/AAAAAAAAE9M/j5DXCxm2fmMgQT1_-fhaGtTpQHM8-N8MACLcBGAsYHQ/s320/010.jpg",
+  "length" : "36:58",
+  "title" : "အတွေးမှား အရေးမှား (မိုးပွင့် ,ပေါက်ကျော် ,ကံထူး ,အရှည်ကြီး)",
+  "genre" : "joker",
+  "video" : "1723779937725827"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-s-vcQwgKz_o/Xp_2Fr0fgVI/AAAAAAAAE9Q/pYTX0irCPaoXfhOQLfFeaioR6vG0JwIyQCLcBGAsYHQ/s320/011.jpg",
+  "length" : "36:13",
+  "title" : "ကံတရား၏လှည့်ကွက် (ပေါင်မုန့် ,အောရိန်း ,တိမ်ဝါ ,ကျော်ထက်)",
+  "genre" : "joker",
+  "video" : "444038829464372"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-LTu5nOs92xo/Xp_2F5Zb-wI/AAAAAAAAE9U/b70aBsCiNMMghOD9WNUXg1VzE-cIvURWgCLcBGAsYHQ/s320/012.jpg",
+  "length" : "37:22",
+  "title" : "သိသာသိစေ မမြင်စေနဲ့ (ပေါက်စီ ,ဒိုးဒိုး ,မိုးဇာတ် ,စွမ်းချစ်)",
+  "genre" : "joker",
+  "video" : "210879713191726"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-K831Ot7G05M/Xp_2Fwyn_2I/AAAAAAAAE9Y/ueEdqZM27RAf4-oEZoAo13RURl3tIAaTwCLcBGAsYHQ/s320/013.jpg",
+  "length" : "11:20",
+  "title" : "ခေတ်ကြီးကိုက (မိုးပွင့်,ပေါက်ကျော်)",
+  "genre" : "joker",
+  "video" : "2004410169856693"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-AcifObQWecA/Xp_2Gdq20aI/AAAAAAAAE9c/dmtccDGnMyEt8-Ms77hLHHeIo1yYA-eTgCLcBGAsYHQ/s320/014.jpg",
+  "length" : "19:22",
+  "title" : "လုပ်ဇာတ်တွေ (ပြည်ချစ် ,သာဦး)",
+  "genre" : "joker",
+  "video" : "523355338161750"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-YKu-lkAkwiQ/Xp_2G0EwVTI/AAAAAAAAE9g/C0QJI7LZmqIlUHB9iYUDEep9I8J1L0uUACLcBGAsYHQ/s320/015.jpg",
+  "length" : "37:28",
+  "title" : "မင်းဆရာနဲ့ ငါ့ဆရာ (ဆန်းသစ် ,ဒေါ်လာ ,ရှိုင်းလေး ,ပေသီး)",
+  "genre" : "joker",
+  "video" : "290686011646355"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-UKrMPT_d7zg/Xp_2G_llNxI/AAAAAAAAE9k/oOiUaF-DLsoujToBEpujeL8IV8Bdv-pygCLcBGAsYHQ/s320/016.jpg",
+  "length" : "11:29",
+  "title" : "ဇောက်ထိုးမိုးမျှော် (ဆန်းသစ် ,ဒေါ်လာ)",
+  "genre" : "joker",
+  "video" : "239269923638078"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-2-8xD6BIk6w/Xp_2HDxvTsI/AAAAAAAAE9o/zFLS7qncajQd6QewdJKLKi5cx2cfuOINQCLcBGAsYHQ/s320/017.jpg",
+  "length" : "03:19",
+  "title" : "အတွေးမှား အရေးမှား (မိုးပွင့် ,ပေါက်ကျော်)",
+  "genre" : "joker",
+  "video" : "2191021261225464"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-vTDlPkmJiic/Xp_2IFwiCBI/AAAAAAAAE9s/ezrEqvOs8J4MAKGB68aYaVeDWbAAGO4PQCLcBGAsYHQ/s320/018.jpg",
+  "length" : "37:01",
+  "title" : "မပြောကောင်း ပြောကောင်း (ပြည်ချစ် ,သာဦး ,ဆန်းသစ် ,ဒေါ်လာ)",
+  "genre" : "joker",
+  "video" : "501136430393602"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-cUsFK7tAf-I/Xp_2IR2ircI/AAAAAAAAE9w/52aBmsaYmPYxPhTo8dnTHsp1r0ZFmMO0wCLcBGAsYHQ/s320/019.jpg",
+  "length" : "35:34",
+  "title" : "စိတ်ရှိလက်ရှိ (တိမ်ဝါ ,ကျော်ထက် ,ရှိုင်းလေး ,ပေသီး)",
+  "genre" : "joker",
+  "video" : "353136062141549"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-LmdycApJ2uQ/Xp_2ImBevbI/AAAAAAAAE90/qw86hSJy1a8CYfuZyXkhtSDabCFc-EYOACLcBGAsYHQ/s320/020.jpg",
+  "length" : "35:55",
+  "title" : "မိန်းမပီသတယ်ဆိုတာ (9မိုးပွင့် ,ပေါက်ကျော် ,ပေါက်စီ ,ဒိုးဒိုး)",
+  "genre" : "joker",
+  "video" : "359196267963246"
+},
+
+{
+  "cover" : "https://1.bp.blogspot.com/-T9pw2Ijy4zA/XtqiB4NATBI/AAAAAAAAFEg/ynnMSCvWDn84TqIiFyGd1Pyma-SZsDPDgCLcBGAsYHQ/s1600/001.jpg",
+  "length" : "07:14",
+  "title" : "အတွေးမှား အရေးမှား (မိုးပွင့်+ပေါက်ကျော်)",
+  "genre" : "joker",
+  "video" : "2087640814591844"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-10Fd6Imew94/XtqiB0X-9NI/AAAAAAAAFEk/uQ2sr1XAGt0Iyh12yT9hzGsNmqBvhR2FACLcBGAsYHQ/s1600/002.jpg",
+  "length" : "02:49",
+  "title" : "မပြောကောင်း ပြောကောင်း (ပြည်ချစ်+သာဦး)",
+  "genre" : "joker",
+  "video" : "1986501064772292"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-wzop-rATo4E/XtqiB7AackI/AAAAAAAAFEo/aJ2fN5BxEdUGrnakmNZ02_o670OZ7vekwCLcBGAsYHQ/s1600/003.jpg",
+  "length" : "36:48",
+  "title" : "အသက်ဘေးက သီသီလေးလွဲ",
+  "genre" : "joker",
+  "video" : "372593326646199"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-alLc74wcgGw/XtqiC8MODwI/AAAAAAAAFEs/KzfXsXjZeF4AIK_3_ScNZk2M4z_yUEsAQCLcBGAsYHQ/s1600/004.jpg",
+  "length" : "35:17",
+  "title" : "ချစ်လို့ပြောတာနော်",
+  "genre" : "joker",
+  "video" : "1944220869007974"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-Xc62h53nRNw/XtqiC8mkeGI/AAAAAAAAFE0/14kfM63HKbsmGPLB6usHqJivmF5NL9pQwCLcBGAsYHQ/s1600/005.jpg",
+  "length" : "36:31",
+  "title" : "အပြောင်းအလဲမြန်သူ",
+  "genre" : "joker",
+  "video" : "1109781332533720"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-iwcEtLcAcKM/XtqiEIg716I/AAAAAAAAFFA/ENBBCXHzAAwhktPFx4QiqDRaGvcixELPACLcBGAsYHQ/s1600/008.jpg",
+  "length" : "35:14",
+  "title" : "မယုံမရှိနဲ့",
+  "genre" : "joker",
+  "video" : "480111402397128"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-_jx3X0XkynA/XtqiE006KvI/AAAAAAAAFFE/Q6wP1vtyX0QEKB4606cLal737TMocSFmACLcBGAsYHQ/s1600/010.jpg",
+  "length" : "34:31",
+  "title" : "အမှတ်သည်းခြေ",
+  "genre" : "joker",
+  "video" : "1524754431001811"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-bCZkzTLSZx8/XtqiFFNa92I/AAAAAAAAFFI/EAAjbV08y6QqEGfgNyLPlmxI4MUDOuquQCLcBGAsYHQ/s1600/011.jpg",
+  "length" : "06:08",
+  "title" : "မပြောကောင်း ပြောကောင်း (ဆန်းသစ်+ဒေါ်လာ)",
+  "genre" : "joker",
+  "video" : "267430793971595"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-J3SUt2n9xZQ/XtqiFUYOyXI/AAAAAAAAFFM/bRV1BQSN_xYyY-rONf5qNc4mdugk22QwwCLcBGAsYHQ/s1600/012.jpg",
+  "length" : "35:39",
+  "title" : "ပြောသင့်မှပြော",
+  "genre" : "joker",
+  "video" : "325144644749226"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-hKNIEhXhz7I/XtqiFxQa9QI/AAAAAAAAFFQ/xLJVIuBENNo8fZ6enOSJdA9KEBjIapezACLcBGAsYHQ/s1600/013.jpg",
+  "length" : "36:01",
+  "title" : "အပူရှာသူများ",
+  "genre" : "joker",
+  "video" : "1432395346893974"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-DaLZlzFIp6A/XtqiGCMqJHI/AAAAAAAAFFU/r5ZhQewzaf8Y51SVLB7ywGcYT1FTSgpXACLcBGAsYHQ/s1600/014.jpg",
+  "length" : "33:45",
+  "title" : "ဆတ်ဆတ်ထိမခံ",
+  "genre" : "joker",
+  "video" : "336487723576881"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-TwLu0FytU-Y/XtqiG3yyRBI/AAAAAAAAFFc/JaPrFkw1fWQh3ENBngigtIH8zE7yxK4qQCLcBGAsYHQ/s1600/016.jpg",
+  "length" : "08:33",
+  "title" : "သိသာသိစေ မမြင်စေနဲ့ (ပေါက်စီ+ဒိုးဒိုး) ပြက်လုံးခွင်",
+  "genre" : "joker",
+  "video" : "2187504838160758"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-rz18EYmsNnc/XtqiHAaj0CI/AAAAAAAAFFg/QZmH37T6gpcO8yzsSOV8oQVShuTKkiQ5ACLcBGAsYHQ/s1600/017.jpg",
+  "length" : "05:42",
+  "title" : "သိသာသိစေ မမြင်စေနဲ့ (ပေါက်စီ+ဒိုးဒိုး) အပိုင်း(၁)",
+  "genre" : "joker",
+  "video" : "1948740948752757"
+}
+,
+{
+  "cover" : "https://1.bp.blogspot.com/-pI9Ot6syCBI/XtqiIJN23tI/AAAAAAAAFFs/lV_XmN7Y9RwK4oa32m3Jp_bQUzO5AbxCwCLcBGAsYHQ/s1600/020.jpg",
+  "length" : "35:34",
+  "title" : "ကာလံ ဒေသံ အဂ္ဃံ ဓနံ",
+  "genre" : "joker",
+  "video" : "821640571557636"
+}
+]
+}
